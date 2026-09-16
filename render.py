@@ -6,7 +6,8 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
 
-SECTIONS = ['世界新闻', '中国新闻', '深圳新闻', 'CS2 游戏资讯']
+LEGACY_SECTIONS = ['世界新闻', '中国新闻', '深圳新闻', 'CS2 游戏资讯']
+SECTIONS = ['世界新闻', '美国新闻', '宾夕法尼亚州新闻', 'State College 新闻', '中国新闻', '深圳新闻', 'CS2 游戏资讯']
 
 
 def validate(data):
@@ -14,8 +15,10 @@ def validate(data):
     generated = datetime.fromisoformat(data['generated_at'])
     if generated.tzinfo is None:
         raise ValueError('generated_at must include timezone')
-    if [s['name'] for s in data['sections']] != SECTIONS:
-        raise ValueError('Exactly four ordered sections are required')
+    names = [s['name'] for s in data['sections']]
+    legacy_archive = day <= date(2026, 9, 16) and names == LEGACY_SECTIONS
+    if names != SECTIONS and not legacy_archive:
+        raise ValueError('Exactly seven ordered sections are required')
     seen = set()
     total = 0
     for section in data['sections']:

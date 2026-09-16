@@ -1,6 +1,6 @@
 import copy
 import unittest
-from render import SECTIONS, render, validate
+from render import SECTIONS, LEGACY_SECTIONS, render, validate
 from notify import build_payload
 
 
@@ -37,6 +37,25 @@ class DigestTests(unittest.TestCase):
         payload = build_payload(fixture(), 'https://example.github.io/news/', 'recipient', 'template')
         self.assertEqual(payload['url'], 'https://example.github.io/news/2026-09-16.html')
         self.assertEqual(set(payload['data']), {'date', 'summary', 'remark'})
+        self.assertEqual(payload['data']['summary']['value'], '7 个新闻板块，共 7 条精选')
+
+    def test_seven_section_migration_keeps_archives_readable(self):
+        data = fixture()
+        page = render(data)
+        for name in ['美国新闻', '宾夕法尼亚州新闻', 'State College 新闻']:
+            self.assertIn('<h2>' + name + '</h2>', page)
+        by_name = {s['name']: s for s in data['sections']}
+        data['sections'] = [by_name[name] for name in LEGACY_SECTIONS]
+        self.assertEqual(validate(data)[1], 4)
+        data['date'] = '2026-09-17'
+        data['generated_at'] = '2026-09-17T07:00:00-04:00'
+        with self.assertRaisesRegex(ValueError, 'seven ordered sections'):
+            validate(data)
+        data['sections'] = [by_name[name] for name in SECTIONS]
+        self.assertEqual(validate(data)[1], 7)
+        data['sections'][1], data['sections'][2] = data['sections'][2], data['sections'][1]
+        with self.assertRaisesRegex(ValueError, 'seven ordered sections'):
+            validate(data)
 
     def test_date_only_source_does_not_invent_clock_time(self):
         data = fixture(); item = data['sections'][0]['items'][0]

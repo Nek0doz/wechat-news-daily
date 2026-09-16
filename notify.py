@@ -30,7 +30,7 @@ def build_payload(data, page_base, openid, template_id):
         'url': page_base.rstrip('/') + '/' + day.isoformat() + '.html',
         'data': {
             'date': {'value': day.isoformat()},
-            'summary': {'value': f'世界、中国、深圳、CS2，共 {total} 条精选'},
+            'summary': {'value': f'{len(data["sections"])} 个新闻板块，共 {total} 条精选'},
             'remark': {'value': '点击查看简洁概要和原文链接'},
         },
     }
@@ -78,4 +78,3 @@ if __name__ == '__main__':
         else:
             print('Notification failed: ' + type(exc).__name__, file=sys.stderr)
         sys.exit(1)
-

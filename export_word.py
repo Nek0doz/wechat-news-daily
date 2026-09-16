@@ -22,6 +22,10 @@ def add_source_link(paragraph, label, url):
 def save_docx(data, path):
     day, total = validate(data)
     doc = Document()
+    for border in doc.styles.element.xpath('.//w:pBdr'):
+        border.getparent().remove(border)
+    for border in doc.element.xpath('.//w:pBdr'):
+        border.getparent().remove(border)
     section = doc.sections[0]
     section.page_width, section.page_height = Cm(21), Cm(29.7)
     section.top_margin = section.bottom_margin = Cm(1.8)
@@ -62,3 +66,4 @@ def save_docx(data, path):
     doc.core_properties.last_modified_by = ''
     doc.core_properties.subject = '中文概要与原始信源链接'
     doc.save(path)
+

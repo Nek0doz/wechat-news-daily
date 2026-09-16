@@ -24,8 +24,16 @@ jobs:
           latest=$(ls site/????-??-??.docx | tail -1)
           libreoffice -env:UserInstallation=file:///tmp/news-word-profile --headless --convert-to pdf --outdir word-qa "$latest"
           pdftoppm -scale-to 1600 -png word-qa/*.pdf word-qa/page
+      - name: Export public layout previews to review log
+        run: |
+          for page in word-qa/page-*.png; do
+            echo "WORD_PREVIEW_BEGIN $page"
+            base64 "$page"
+            echo "WORD_PREVIEW_END"
+          done
       - uses: actions/upload-artifact@v4
         with:
           name: word-layout-review
           path: word-qa/
           retention-days: 3
+

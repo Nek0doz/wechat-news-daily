@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T04:12:47-04:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "埃及总统塞西与沙特王储穆罕默德在开罗会面，强调维护红海航线和关键海峡的航行安全，并呼吁通过政治途径解决也门危机。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697445.shtml",
+          "published_at": "2026-09-16T14:18:20+08:00"
+        },
+        {
+          "summary": "日本首相、自民党总裁高市早苗调整自民党高层人事，多数成员留任。此次调整于9月16日上午的临时总务会上进行。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697538.shtml",
+          "published_at": "2026-09-16T15:47:58+08:00"
+        },
+        {
+          "summary": "韩国法院就民间无人机侵入朝鲜案作出一审判决：三名被告的一般利敌罪不成立，但因违反航空安全法获刑6至8个月、缓刑两年。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697548.shtml",
+          "published_at": "2026-09-16T15:48:22+08:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "海南受热带低压与冷空气共同影响出现强降雨，部分乡镇遭遇特大暴雨。当地紧急拨款1900万元，支持应急抢险救灾。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697556.shtml",
+          "published_at": "2026-09-16T15:52:50+08:00"
+        },
+        {
+          "summary": "“中国天眼”FAST团队发现双中子星系统PSR J1856-0039。国家天文台称，该系统轨道周期极短，是目前已知总质量最轻的双中子星系统。",
+          "source": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697543.shtml",
+          "published_at": "2026-09-16T15:51:12+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳市教育局于9月15日开展网络安全宣传周校园主题日活动，通过线上和线下形式向全市师生普及网络安全知识。",
+          "source": "深圳市教育局／深圳新闻网",
+          "url": "https://www.sznews.com/news/content/2026-09/16/content_32172817.htm",
+          "published_at": "2026-09-16",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "The MongolZ将DarkMeister和tikuak移至替补席，两人结束约两个月的主力阵容任期。战队需要在后续赛事前补齐阵容。",
+          "source": "HLTV",
+          "url": "https://www.hltv.org/news/45522/the-mongolz-bench-darkmeister-tikuak",
+          "published_at": "2026-09-15T12:16:00+00:00"
+        },
+        {
+          "summary": "magic选手AW因签证问题缺席StarLadder StarSeries Fall，教练eksiver将临时替补上场。",
+          "source": "HLTV",
+          "url": "https://www.hltv.org/news/45523/aw-to-miss-starladder-starseries-fall",
+          "published_at": "2026-09-15T13:05:00+00:00"
+        }
+      ]
+    }
+  ]
+}

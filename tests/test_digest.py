@@ -38,6 +38,14 @@ class DigestTests(unittest.TestCase):
         self.assertEqual(payload['url'], 'https://example.github.io/news/2026-09-16.html')
         self.assertEqual(set(payload['data']), {'date', 'summary', 'remark'})
 
+    def test_date_only_source_does_not_invent_clock_time(self):
+        data = fixture(); item = data['sections'][0]['items'][0]
+        item['published_at'] = '2026-09-16'
+        with self.assertRaises(ValueError): validate(data)
+        item['published_timezone'] = '+08:00'
+        validate(data)
+        item['published_at'] = '2026-09-15'
+        with self.assertRaises(ValueError): validate(data)
+
 
 if __name__ == '__main__': unittest.main()
-

@@ -35,9 +35,19 @@ def validate(data):
             if canonical in seen:
                 raise ValueError('Duplicate source link')
             seen.add(canonical)
-            published = datetime.fromisoformat(item['published_at'])
-            if published.tzinfo is None or not generated - timedelta(hours=24) <= published <= generated:
-                raise ValueError('Source publication must be within the preceding 24 hours')
+            stamp = item['published_at']
+            if len(stamp) == 10:
+                # A source exposing only the date must not acquire an invented clock time.
+                offset = item.get('published_timezone', '')
+                if not offset:
+                    raise ValueError('Date-only sources need a source timezone offset')
+                midnight = datetime.fromisoformat(stamp + 'T00:00:00' + offset)
+                if midnight.tzinfo is None or midnight.date() != generated.astimezone(midnight.tzinfo).date():
+                    raise ValueError('Date-only sources must be from the current source-local day')
+            else:
+                published = datetime.fromisoformat(stamp)
+                if published.tzinfo is None or not generated - timedelta(hours=24) <= published <= generated:
+                    raise ValueError('Source publication must be within the preceding 24 hours')
             total += 1
     if not total:
         raise ValueError('No verified articles: do not publish an empty digest')

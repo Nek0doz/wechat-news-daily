@@ -1,0 +1,31 @@
+name: Check Word layout
+on:
+  push:
+    paths: ['export_word.py', '.github/workflows/check-word.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  layout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
+      - run: python render.py
+      - name: Install document renderer
+        run: sudo apt-get update -qq && sudo apt-get install -y --no-install-recommends libreoffice-writer fonts-noto-cjk poppler-utils
+      - name: Render Word pages for inspection
+        run: |
+          mkdir -p word-qa
+          latest=$(ls site/????-??-??.docx | tail -1)
+          libreoffice -env:UserInstallation=file:///tmp/news-word-profile --headless --convert-to pdf --outdir word-qa "$latest"
+          pdftoppm -scale-to 1600 -png word-qa/*.pdf word-qa/page
+      - uses: actions/upload-artifact@v4
+        with:
+          name: word-layout-review
+          path: word-qa/
+          retention-days: 3

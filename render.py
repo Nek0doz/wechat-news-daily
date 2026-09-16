@@ -78,13 +78,16 @@ main{max-width:760px;margin:auto;padding:42px 22px}header{border-bottom:2px soli
 .eyebrow{font-size:12px;letter-spacing:3px;color:#617078}h1{font-size:36px;line-height:1.3;margin:12px 0}header p,footer,.note{color:#617078;font-size:13px}
 section{padding-top:24px}h2{font-size:20px;margin:0 0 12px}article{background:white;padding:18px 22px;margin:10px 0;border:1px solid #e5e6e1;border-radius:10px}
 article p{margin:0 0 10px;font-size:16px}a{color:#006d70;text-decoration:none;font-size:13px}a:hover{text-decoration:underline}footer{margin-top:32px;padding-top:16px;border-top:1px solid #ddd}
+.download{display:inline-block;background:#006d70;color:white;padding:9px 16px;border-radius:6px;font-size:15px}
 @media(max-width:480px){main{padding:26px 16px}h1{font-size:30px}article{padding:16px}}
 </style><main><header><div class="eyebrow">DAILY NEWS BRIEF</div><h1>每日新闻</h1><p>'''
-    + day.isoformat() + ' · 纽约日期 · ' + str(count) + ' 条精选</p></header>' + ''.join(sections) + '''
+    + day.isoformat() + ' · 纽约日期 · ' + str(count) + ' 条精选</p><a class="download" href="'
+    + day.isoformat() + '.docx" download>下载 Word 日报</a><p>可保存、编辑或转发。若微信内无法下载，请用浏览器打开此页。</p></header>' + ''.join(sections) + '''
 <footer>概要由 AI 根据所列来源整理；详情以原文为准。<br>覆盖生成前 24 小时，未更新的板块不以旧闻填充。</footer></main></html>''')
 
 
 def main():
+    from export_word import save_docx
     parser = argparse.ArgumentParser()
     parser.add_argument('--input-dir', default='digests')
     parser.add_argument('--output-dir', default='site')
@@ -99,6 +102,7 @@ def main():
         if path.stem != data['date']:
             raise ValueError('Filename must equal digest date')
         page = render(data)
+        save_docx(data, out / (path.stem + '.docx'))
         (out / (path.stem + '.html')).write_text(page, encoding='utf-8')
     (out / 'index.html').write_text(page, encoding='utf-8')
     (out / '.nojekyll').touch()

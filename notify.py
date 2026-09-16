@@ -31,7 +31,7 @@ def build_payload(data, page_base, openid, template_id):
         'data': {
             'date': {'value': day.isoformat()},
             'summary': {'value': f'{len(data["sections"])} 个新闻板块，共 {total} 条精选'},
-            'remark': {'value': '点击查看简洁概要和原文链接'},
+            'remark': {'value': '点击阅读日报，页面顶部可下载 Word 文档'},
         },
     }
 
@@ -57,6 +57,10 @@ def main():
     with urllib.request.urlopen(payload['url'], timeout=30) as response:
         if data['date'] not in response.read().decode('utf-8'):
             raise ValueError('Published digest is not ready')
+    word_url = payload['url'].removesuffix('.html') + '.docx'
+    with urllib.request.urlopen(word_url, timeout=30) as response:
+        if response.read(4) != b'PK\x03\x04':
+            raise ValueError('Published Word document is not ready')
     params = urllib.parse.urlencode({'grant_type': 'client_credential', 'appid': os.environ['WECHAT_APP_ID'], 'secret': os.environ['WECHAT_APP_SECRET']})
     result = request_json('https://api.weixin.qq.com/cgi-bin/token?' + params)
     if not result.get('access_token'):

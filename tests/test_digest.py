@@ -33,11 +33,12 @@ class DigestTests(unittest.TestCase):
         data['sections'][0]['note'] = '过去24小时未找到可核实的重要更新。'
         validate(data)
 
-    def test_notification_points_to_immutable_dated_page(self):
+    def test_notification_points_directly_to_dated_word_file(self):
         payload = build_payload(fixture(), 'https://example.github.io/news/', 'recipient', 'template')
-        self.assertEqual(payload['url'], 'https://example.github.io/news/2026-09-16.html')
+        self.assertEqual(payload['url'], 'https://example.github.io/news/2026-09-16.docx')
         self.assertEqual(set(payload['data']), {'date', 'summary', 'remark'})
         self.assertEqual(payload['data']['summary']['value'], '7 个新闻板块，共 7 条精选')
+        self.assertIn('点击直接下载 Word', payload['data']['remark']['value'])
 
     def test_seven_section_migration_keeps_archives_readable(self):
         data = fixture()

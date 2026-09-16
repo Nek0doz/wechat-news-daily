@@ -27,11 +27,11 @@ def build_payload(data, page_base, openid, template_id):
     return {
         'touser': openid,
         'template_id': template_id,
-        'url': page_base.rstrip('/') + '/' + day.isoformat() + '.html',
+        'url': page_base.rstrip('/') + '/' + day.isoformat() + '.docx',
         'data': {
             'date': {'value': day.isoformat()},
             'summary': {'value': f'{len(data["sections"])} 个新闻板块，共 {total} 条精选'},
-            'remark': {'value': '点击阅读日报，页面顶部可下载 Word 文档'},
+            'remark': {'value': '点击直接下载 Word 日报；若微信拦截，请在浏览器中打开'},
         },
     }
 
@@ -54,10 +54,11 @@ def main():
     page = urllib.parse.urlsplit(payload['url'])
     if page.scheme != 'https' or not page.hostname or not page.hostname.endswith('.github.io'):
         raise ValueError('PAGES_URL must be the HTTPS GitHub Pages address')
-    with urllib.request.urlopen(payload['url'], timeout=30) as response:
+    html_url = payload['url'].removesuffix('.docx') + '.html'
+    with urllib.request.urlopen(html_url, timeout=30) as response:
         if data['date'] not in response.read().decode('utf-8'):
             raise ValueError('Published digest is not ready')
-    word_url = payload['url'].removesuffix('.html') + '.docx'
+    word_url = payload['url']
     with urllib.request.urlopen(word_url, timeout=30) as response:
         if response.read(4) != b'PK\x03\x04':
             raise ValueError('Published Word document is not ready')

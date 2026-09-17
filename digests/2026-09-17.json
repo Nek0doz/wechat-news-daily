@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:11:40+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "联合国授权的伊朗问题独立调查团认为，有合理理由相信美军在伊朗的两次袭击涉嫌战争罪，并指控伊朗政府对本国平民实施危害人类罪。报告并非法院判决；美方尚未公布学校遭袭事件的调查结果。",
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/un-human-rights-us-iran-99e690efd1e818e835d4f5a00e0d261b",
+          "published_at": "2026-09-17T08:49:13+00:00"
+        },
+        {
+          "summary": "英国央行以6票对3票维持基准利率3.75%，另3名委员主张加息至4%。央行指出能源价格上涨加大通胀上行风险，表示将根据形势采取行动。",
+          "source": "Bank of England",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+          "published_at": "2026-09-17",
+          "published_timezone": "+01:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美联储一致决定将联邦基金利率目标区间上调0.25个百分点至3.75%—4%。声明称通胀仍然偏高，委员会将根据后续数据评估政策调整，以推动通胀回到2%的目标。",
+          "source": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+          "published_at": "2026-09-16T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [],
+      "note": "本次检索未筛选出能同时核实发布时间、具有新增进展且影响全州的重要报道；今日刊出的部分麻疹报道重复了更早消息，未予收录。"
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Ferguson Township 监事会讨论限制自动车牌识别摄像头，决定起草表达立场的决议，并继续研究可行措施。目前尚未通过全面禁令，对私人土地上设备的限制权限仍待厘清。",
+          "source": "StateCollege.com",
+          "url": "https://www.statecollege.com/articles/local-news/ferguson-township-supervisors-mull-options-to-restrict-flock-cameras/",
+          "published_at": "2026-09-17T00:05:00-04:00"
+        },
+        {
+          "summary": "Bellefonte 学区与教职工工会就合同谈判公开说明分歧；工会已授权在谈判无果时于10月12日罢工。学区称正按正常程序善意谈判，工会则要求改善薪酬并加快进展，罢工尚未发生。",
+          "source": "StateCollege.com",
+          "url": "https://www.statecollege.com/articles/education/bellefonte-school-district-officials-union-discuss-negotiations-and-next-steps-as-potential-strike-looms/",
+          "published_at": "2026-09-16T20:25:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "长征十二号运载火箭于9月17日8时32分在海南商业航天发射场发射，将卫星互联网低轨25组卫星送入预定轨道。新华社报道，本次发射任务取得成功。",
+          "source": "新华社",
+          "url": "https://www.news.cn/tech/20260917/ff7b870b0f0044fa87a80f6eff0d5061/c.html",
+          "published_at": "2026-09-17T10:13:52+08:00"
+        },
+        {
+          "summary": "国务院办公厅印发关于加强烟花爆竹全链条安全监管的意见，提出从严管理生产许可，并逐步淘汰不可控风险较高的产品。监管要求覆盖生产、经营等环节，旨在防范重大安全风险。",
+          "source": "第一财经",
+          "url": "https://www.yicai.com/brief/103368476.html",
+          "published_at": "2026-09-17T17:11:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳介绍红树林湿地保护新规，将保护对象从红树植物扩展到湿地生态系统，并对候鸟栖息地及周边夜间照明提出保护要求。新规共24条，涵盖保护管理、生态修复与国际合作。",
+          "source": "深圳特区报（深圳政府在线）",
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_12985155.html",
+          "published_at": "2026-09-17T11:58:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [],
+      "note": "已检索英文官方及赛事报道。Valve 未见可核实的过去24小时重要更新；部分替补与赛果报道未能确认发布时间的时区，暂不收录，未采纳未经证实的转会传闻。"
+    }
+  ]
+}

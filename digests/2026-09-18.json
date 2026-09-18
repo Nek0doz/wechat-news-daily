@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T13:04:30+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "日本央行将短期政策利率从1%上调至1.25%，达到31年来最高水平。行长植田和男表示，决策考虑了伊朗战争、人工智能需求和汇率变化等风险。",
+          "source": "Associated Press · 原文 2026-09-18 03:20:26+00:00",
+          "url": "https://apnews.com/article/67e71246d3af41bcfc61aa788f9959c7",
+          "published_at": "2026-09-18T03:20:26+00:00"
+        },
+        {
+          "summary": "俄罗斯启动为期三天的国家杜马选举，投票将于周日结束。此次投票也在俄方控制的乌克兰地区进行，乌克兰政府与欧盟表示不承认这些地区的选举。",
+          "source": "Associated Press · 原文 2026-09-18 06:20:12+00:00",
+          "url": "https://apnews.com/article/7f10803a87456051be876c0c33375af8",
+          "published_at": "2026-09-18T06:20:12+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国中期选举的现场提前投票于9月18日在弗吉尼亚州启动，爱达荷、明尼苏达和南达科他等州也开始受理现场缺席投票。11月3日选举将决定国会两院的控制权，并涉及多州州长及州议会席位。",
+          "source": "Associated Press · 原文 2026-09-18 04:04:20+00:00",
+          "url": "https://apnews.com/article/10a3e620ce194144ce1af5e9d4fb6786",
+          "published_at": "2026-09-18T04:04:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州州长 Josh Shapiro 在匹兹堡 AI 峰会上呼吁联邦政府加强人工智能监管，并推动国际合作降低公众风险。他强调监管规则不应完全由科技行业决定；这是一项政策主张，并非新出台的联邦法规。",
+          "source": "90.5 WESA · 原文 2026-09-17 17:05-04:00",
+          "url": "https://www.wesanews.org/politics-government/2026-09-17/shapiro-calls-on-trump-to-regulate-artificial-intelligence-development",
+          "published_at": "2026-09-17T17:05-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Penn State 校友返校周将于9月20日至27日在 University Park 校园和 State College 市中心举行，活动安排包括 Allen Street Jam、嘉年华及返校游行。今年还新增 Old Coaly 2K 和校友交流活动，详细日程见原文。",
+          "source": "StateCollege.com · 原文 2026-09-18 02:30-04:00",
+          "url": "https://www.statecollege.com/articles/psu-news/whats-happening-in-state-college-on-campus-for-penn-states-2026-homecoming-week-heres-the-full-schedule/",
+          "published_at": "2026-09-18T02:30-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国务院常务会议部署实施医疗康复护理扩容提升工程，提出完善服务项目目录、价格机制和人才培养政策。会议还审议通过《中医药传统知识保护条例（草案）》，相关草案不等同于已生效法规。",
+          "source": "新华社 · 原文 2026-09-18 19:45:01+08:00",
+          "url": "https://www.news.cn/politics/leaders/20260918/bb354fed5b574a829702249ff55fe0b5/c.html",
+          "published_at": "2026-09-18T19:45:01+08:00"
+        },
+        {
+          "summary": "国家发展改革委、国家能源局和国家矿山安监局联合部署煤炭稳产保供，要求在确保安全的前提下推进煤矿复产达产和相关验收。后续将加强监测调度，并视情况释放煤炭产能储备。",
+          "source": "国家能源局（新华网刊载） · 原文 2026-09-18 10:04:33+08:00",
+          "url": "https://www.news.cn/energy/20260918/81de474fdd4f4a2fb299d4cd907a4439/c.html",
+          "published_at": "2026-09-18T10:04:33+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳发布中秋、国庆出行预测：9月24日傍晚及25日上午预计出现首轮离深高峰，9月30日下午至夜间将叠加工作日晚高峰与国庆离深车流。交通部门预计10月6日至7日14:30—21:00返深压力较大，市民可据此规划错峰出行。",
+          "source": "深圳市交通运输局 · 原文 2026-09-18 17:04+08:00",
+          "url": "https://jtys.sz.gov.cn/jtzx/wycx/glcx/cxtx/content/post_12989819.html",
+          "published_at": "2026-09-18T17:04+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "NRG 在 StarLadder StarSeries Fall 2026 首轮以2比1击败 MOUZ，晋级胜者组半决赛。NRG 先以13比11拿下 Cache，在输掉 Inferno 后，以13比10赢下决胜图 Dust2。",
+          "source": "Dust2.us · 原文 2026-09-17 09:55-04:00",
+          "url": "https://www.dust2.us/news/77939/what-a-win-for-nrg-they-upset-mouz-to-open-starseries-fall-2026",
+          "published_at": "2026-09-17T09:55-04:00"
+        }
+      ]
+    }
+  ]
+}

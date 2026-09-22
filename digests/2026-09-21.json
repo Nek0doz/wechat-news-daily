@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-22T02:03:47+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "英国首相 Andy Burnham 表示，英国将为沙特军机提供空中加油支持，以应对胡塞武装袭击。英方称行动将于未来几天开始、初步持续数周，并将接受持续评估。",
+          "source": "AP · 原文 2026-09-21 21:04:33+00:00",
+          "url": "https://apnews.com/article/c736f6485b0e9293eee733e12adc9bcd",
+          "published_at": "2026-09-21T21:04:33+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "CNN、MS NOW 和 Politico 就被禁止进入白宫联合起诉特朗普政府，要求恢复采访权限，并指控禁令侵犯新闻自由。白宫回应称采访准入并非当然权利，争议已进入司法程序。",
+          "source": "AP · 原文 2026-09-21 10:32:34+00:00",
+          "url": "https://apnews.com/article/72f9acf68244ca70e9078d9d3661c722",
+          "published_at": "2026-09-21T10:32:34+00:00"
+        },
+        {
+          "summary": "美国第八巡回上诉法院支持密苏里州采用共和党重划的国会选区，但将裁定效力延后一周，留出上诉时间。该州目前仍按旧选区准备11月选举，反对重划的一方计划向最高法院紧急上诉。",
+          "source": "AP · 原文 2026-09-21 22:11:44+00:00",
+          "url": "https://apnews.com/article/0481d2b8ac0fb5369513bf050dd5b5e2",
+          "published_at": "2026-09-21T22:11:44+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州卫生厅公布，今年累计确认792例麻疹病例，涉及39个县，较9月18日更新新增25例。州政府继续通过麻疹信息面板公布病例及应对进展。",
+          "source": "Pennsylvania Department of Health · 原文 2026-09-21（仅日期，UTC-04:00）",
+          "url": "https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-provides-statewide-update-on-measles-out4",
+          "published_at": "2026-09-21",
+          "published_timezone": "-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Penn State 发布9月25日返校游行交通安排：游行18时开始，沿线道路自17时30分起封闭至活动结束。多数 CATABUS 线路约17—21时调整，校园接驳车当日17时停运。",
+          "source": "Penn State · 更新 2026-09-21（仅日期，UTC-04:00）",
+          "url": "https://www.psu.edu/news/finance-and-business/story/homecoming-parade-traffic-transit-and-parking-impacts",
+          "published_at": "2026-09-21",
+          "published_timezone": "-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "新华社9月21日援引广东有关部门消息，佛山顺德一纺织公司厂区前一日下午发生火灾，造成8人死亡、1人受伤。",
+          "source": "新华社 · 原文 2026-09-21 11:09:49+08:00",
+          "url": "https://www.xinhuanet.com/20260921/229753223a0b4ac78b5fc46b73f5faa8/c.html",
+          "published_at": "2026-09-21T11:09:49+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "因广深高速改扩建施工，麻涌、望牛墩收费站深圳方向入口将在9月22日和23日22时至次日7时实施交通管制。需由这两个入口南下的车辆应按现场指引及公告路线绕行。",
+          "source": "南方网·粤学习 · 原文 2026-09-21 15:40+08:00",
+          "url": "https://car.southcn.com/node_225cca9b38/fc3ee0af99.shtml",
+          "published_at": "2026-09-21T15:40+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "ESEA 宣布从第59赛季起在亚洲和南美增设 Intermediate 组：有 VRS 排名的队伍进入该组，未上榜队伍参加 Open 组。两组各前两名进入赛季决赛，争夺两个 ESL Challenger League 名额，报名于9月29日截止。",
+          "source": "Dust2.in · 原文 2026-09-21 14:40+05:30",
+          "url": "https://www.dust2.in/news/78063/eseas-structural-changes-for-the-upcoming-season",
+          "published_at": "2026-09-21T14:40+05:30"
+        }
+      ]
+    }
+  ]
+}

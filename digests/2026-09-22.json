@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-23T00:55:11+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "联合国秘书长古特雷斯在第81届联大一般性辩论开幕讲话中，呼吁各国加强和平、气候和人工智能治理合作。他主张建立具有独立监督的多边 AI 风险管理框架，并推动安理会改革。",
+          "source": "United Nations · 原文 2026-09-22（仅日期，UTC-04:00）",
+          "url": "https://www.un.org/en/desa/guterres-cracks-have-become-canyons-as-world-faces-four-tests-of-power",
+          "published_at": "2026-09-22",
+          "published_timezone": "-04:00"
+        },
+        {
+          "summary": "菲律宾与欧盟宣布自贸协定谈判已达成实质性共识，但仍须敲定剩余细节，并完成批准、签署和核准程序。欧委会主席冯德莱恩表示期待2027年前往菲律宾签署协定，目前协定尚未生效。",
+          "source": "Philstar.com · 原文 2026-09-22 14:48+08:00",
+          "url": "https://www.philstar.com/business/2026/09/22/2558094/philippines-eu-move-closer-free-trade-agreement-after-decade-talks",
+          "published_at": "2026-09-22T14:48+08:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国政府宣布取消涉及约76万人的《平价医疗法案》医保登记，理由是政府认为相关登记存在欺诈或资格问题。副总统万斯称，取消相关补贴预计可节省22亿美元。",
+          "source": "AP · 原文 2026-09-22 17:32:32+00:00",
+          "url": "https://apnews.com/article/eb57a4819c8a876a72c1301a112e21dc",
+          "published_at": "2026-09-22T17:32:32+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "SEPTA 发布 Accelerate 交通改善蓝图，提出增加高频服务覆盖、缩短区域铁路候车时间，并让全部车站具备无障碍设施。项目尚未公布总成本，实施仍依赖目前尚未落实的稳定资金。",
+          "source": "WHYY · 原文 2026-09-22（仅日期，UTC-04:00）",
+          "url": "https://whyy.org/articles/septa-wishlist-accelerate-improvements-upgrades/",
+          "published_at": "2026-09-22",
+          "published_timezone": "-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "已检索当地媒体及 Penn State 官方发布，过去24小时内暂未核实到符合筛选标准的重要新进展；不以旧闻或商业推广填充。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "中国新增两种易制毒化学品出口许可要求，使向美国、墨西哥和加拿大出口时受此类管制的化学品总数增至18种。调整由商务部等部门联合宣布。",
+          "source": "AP · 原文 2026-09-22 12:13:48+00:00",
+          "url": "https://apnews.com/article/6e3012905f3263b796325c03e94d1e40",
+          "published_at": "2026-09-22T12:13:48+00:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "港铁（深圳）公布中秋、国庆延时运营安排：4号线9月24、25、30日及10月1、5日，深圳北站末班车不早于次日1时；10月6、7日不早于次日2时15分。13号线9月24、25、30日及10月1、5—7日，双方向末班车延至次日零时。",
+          "source": "深圳新闻网 · 原文 2026-09-22 16:18:22+08:00",
+          "url": "https://www.sznews.com/news/content/2026-09/22/content_32177420.htm",
+          "published_at": "2026-09-22T16:18:22+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 发布“Rush Hour”更新，加入随机战斗区域组成的3对3 Rush 模式，并将 Premier 选图改为双方各选两张、再随机抽取一张。玩家长按换弹键可进行耗时更长的静音换弹，取消瞄准镜也不再发出声音。",
+          "source": "Valve / Counter-Strike 2 · 原文 2026-09-22 23:38:37+00:00",
+          "url": "https://steamcommunity.com/games/CSGO/announcements/detail/711161056325533827",
+          "published_at": "2026-09-22T23:38:37+00:00"
+        }
+      ]
+    }
+  ]
+}

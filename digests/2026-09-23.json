@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:08:44+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "据韩联社报道，伊朗外交部发言人称，伊方已在纽约通过卡塔尔向美国传递结束各战线战事、解除海上封锁及解冻资产等条件。特朗普称双方接触取得进展，但截至报道时没有公布具体协议，后续会谈安排仍不明确。",
+          "source": "Yonhap News（韩联社，韩文） · 原文 2026-09-23 13:43+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20260923102500009",
+          "published_at": "2026-09-23T13:43+09:00"
+        },
+        {
+          "summary": "国际刑事法院判定中非共和国前反叛武装指挥官 Mahamat Said Abdel Kani 的四项危害人类罪成立，包括酷刑与非法监禁，刑期将另行裁定；三项战争罪指控则获判无罪。案件涉及他在2013年管理班吉一处拘留中心期间的行为。",
+          "source": "AFP / Justice Info（英文） · 原文 2026-09-23（仅日期，UTC+02:00）",
+          "url": "https://www.justiceinfo.net/en/165776-icc-said-convicted.html",
+          "published_at": "2026-09-23",
+          "published_timezone": "+02:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国司法部在 CNN、MS NOW 和 Politico 挑战白宫采访禁令的案件中提交文件，主张总统可限制记者进入椭圆形办公室等受限区域。法院定于9月23日举行听证，政府的这一主张尚不等同于法院裁定。",
+          "source": "AFP（英文） · 原文 2026-09-23 11:45:36+02:00",
+          "url": "https://www.afp.com/en/us-justice-dept-says-trump-can-deny-journalists-white-house-access",
+          "published_at": "2026-09-23T11:45:36+02:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [],
+      "note": "本次检索未找到过去24小时内可充分核实、具有州级重要性的新进展；今日部分报道涉及上周已作出的裁决，未作为新消息收录。"
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "本次检索未找到过去24小时内可充分核实的重要本地新进展；已报道的返校周交通安排及无新进展的旧案消息未重复收录。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "教育部在9月23日国新办发布会上宣布，2027—2030年“双一流”高校本科招生数还将扩容7.6万人。",
+          "source": "新华社 · 原文 2026-09-23 15:31:54+08:00",
+          "url": "https://www.xinhuanet.com/20260923/d6c01b28e86a43c9bedfe401131d81e4/c.html",
+          "published_at": "2026-09-23T15:31:54+08:00"
+        },
+        {
+          "summary": "铁路中秋国庆假期运输于9月23日启动，至10月8日结束，共16天；国铁集团预计发送旅客2.84亿人次，日均计划开行约1.3万列旅客列车。10月1日预计为客流最高峰，旅客可提前查看车票及列车安排。",
+          "source": "新华社 · 原文 2026-09-23 16:03:43+08:00",
+          "url": "https://www.xinhuanet.com/fortune/20260923/c6cffd8ed9b445ecb13da003513c6788/c.html",
+          "published_at": "2026-09-23T16:03:43+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳交警发布新一期通告，配合地铁25号线施工，9月25日至2027年9月22日继续实施部分路段单行安排：龙华人民路（和平路—宝华路）南往北、宝华路（龙华人民路—中环路）东往西、中环路（和平路—宝华路）北往南通行。",
+          "source": "深圳市公安局交通管理局 · 原文 2026-09-23（仅日期，UTC+08:00）",
+          "url": "https://szjj.sz.gov.cn/ZWGK/TZGG/GGJG/content/post_12996375.html",
+          "published_at": "2026-09-23",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "BC.Game 官宣签下澳大利亚选手 asap，替代被移至替补席的 electroNic。asap 与蒙古选手 Senzu、mzinho 组成亚洲／大洋洲三人核心，战队转入亚洲 VRS 赛区。",
+          "source": "Dust2.in（英文） · 原文 2026-09-23 02:30:00+00:00",
+          "url": "https://www.dust2.in/news/78117/bcgame-confirms-the-asian-core-with-asap-signing",
+          "published_at": "2026-09-23T02:30:00+00:00"
+        }
+      ]
+    }
+  ]
+}

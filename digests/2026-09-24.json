@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:06:13+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "美国加强对伊朗航空业制裁后，伊朗航空公司9月23日取消部分国际航班，格鲁吉亚和阿塞拜疆已确认暂停相关航班。法新社核对的航班信息显示，部分赴中国等地的航线仍在运行，各国执行情况并不一致。",
+          "source": "AFP（英文） · 原文 2026-09-24 04:38:19+02:00",
+          "url": "https://www.afp.com/en/iran-airlines-cancel-flights-us-sanctions-hit",
+          "published_at": "2026-09-24T04:38:19+02:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "法院暂时叫停 CNN、MS NOW、Politico 的白宫采访禁令，要求恢复记者证。",
+          "source": "CBS News（英文） · 原文 2026-09-24 01:29:00-04:00",
+          "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+          "published_at": "2026-09-24T01:29:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州审计长发布养老虐待调查监管审计，指出州老龄部门监督52个地方机构时存在调查时限、风险识别和培训等问题，并向该部门提出39项改进建议。审计长称，老龄部门不同意审计结论，但已在审计过程中落实部分建议。",
+          "source": "Pennsylvania Auditor General（英文） · 原文 2026-09-23 16:55:44+00:00",
+          "url": "https://www.paauditor.gov/auditor-general-defoor-says-audit-finds-weakness-in-pdas-oversight-of-elder-abuse-investigations-cape-monitoring-process-must-improve-to-keep-older-pennsylvanians-safe/",
+          "published_at": "2026-09-23T16:55:44+00:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "市中心 Beaver Avenue 公共停车场将因维修于9月28日至10月3日关闭，车辆须在9月27日晚上8点前移走，逾期可能被拖走并由车主承担费用。施工期间可选择 Beaver Avenue、Fraser Street 停车楼或 South Allen Street 路边计时车位。",
+          "source": "StateCollege.com（英文） · 原文 2026-09-24 05:00:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/downtown-state-college-public-parking-lot-to-be-closed-5-days-for-repairs/",
+          "published_at": "2026-09-24T05:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "习近平于当地时间9月23日下午抵达华盛顿，开始应特朗普邀请进行的国事访问。特朗普在安德鲁斯空军基地迎接，并表示期待双方深入交换意见。",
+          "source": "新华社 · 原文 2026-09-24 17:05:29+08:00",
+          "url": "https://www.xinhuanet.com/politics/leaders/20260924/c69b2a8f66874e7f8fec03a56cab6571/c.html",
+          "published_at": "2026-09-24T17:05:29+08:00"
+        },
+        {
+          "summary": "教育部公布2027年全国硕士研究生招生初试时间为2026年12月19日至20日，正式报名为10月15日至24日，预报名为10月9日至12日，均为每日9时至22时。报名系统将推进网上报名与确认一体化，考生需按要求同步提交核验材料。",
+          "source": "新华社 · 原文 2026-09-24 10:32:14+08:00",
+          "url": "https://www.xinhuanet.com/politics/20260924/982f1e7cd8a24d98a00e6e0cad55b6c6/c.html",
+          "published_at": "2026-09-24T10:32:14+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳人社局公布高校毕业生基层公共就业创业服务岗位招募笔试成绩，管理岗位合格线为50分，并按招用名额3倍确定资格审核人选。考生需查看公告附件中的成绩及排名，按要求本人到场，提前备齐审核材料原件和复印件。",
+          "source": "深圳市人力资源和社会保障局 · 原文 2026-09-24 09:54:39+08:00",
+          "url": "https://hrss.sz.gov.cn/tzgg/content/post_12997606.html",
+          "published_at": "2026-09-24T09:54:39+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 发布 Rush Hour 后续修补：Rush 部分区域的淘汰后倒计时上限由7秒增至14秒，并缩短部分准备、冻结及技术暂停时间。更新还新增静态方形准星和半轮廓选项，修复准星零间距及静音换弹动画问题。",
+          "source": "Valve / Steam（英文） · 原文 2026-09-23 23:07:24+00:00",
+          "url": "https://store.steampowered.com/news/app/730/view/674006995886408819",
+          "published_at": "2026-09-23T23:07:24+00:00"
+        }
+      ]
+    }
+  ]
+}

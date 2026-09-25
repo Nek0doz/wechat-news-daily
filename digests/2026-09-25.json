@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:08:42+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "日本10年期国债收益率9月25日升至30年来新高，前一日美国10年期和30年期收益率分别触及2007年和2004年以来高位。法新社报道，油价前期上涨及中东战事持续令通胀和融资成本担忧升温，亚洲股市表现分化。",
+          "source": "AFP（法新社） · 原文 2026-09-25 07:45:47+02:00",
+          "url": "https://www.afp.com/en/asian-markets-mixed-after-oil-gains",
+          "published_at": "2026-09-25T07:45:47+02:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国能源部9月24日宣布近20亿美元电网改造计划，支持26个州的31个项目，合作电力企业将另投入34亿美元。计划包括升级约1,500英里输电线路及部署增容技术，预计增加23吉瓦输电能力，以应对不断增长的用电需求。",
+          "source": "Pennsylvania Capital-Star · 原文 2026-09-24 16:29:00-04:00",
+          "url": "https://penncapital-star.com/energy-environment/energy-department-unveils-project-to-squeeze-more-juice-through-existing-power-lines/",
+          "published_at": "2026-09-24T16:29:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州公布首批2.5亿美元快速道路维修资金，将支持44个县的79个项目，涉及超过400英里的道路铺装。州政府计划在未来18个月从机动车牌照基金拨出总计7.75亿美元，加快原定较晚开展的州属道路维修。",
+          "source": "West Hills Gazette · 原文 2026-09-24 18:13:01-04:00",
+          "url": "https://westhillsgazette.com/penndot-announces-funding-for-west-hills-road-project/",
+          "published_at": "2026-09-24T18:13:01-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "9月28日至10月1日，市中心 East College Avenue 从 McAllister Street 至 South Allen Street 的右车道将封闭维修，预计出现通行延误。South Pugh Street 人行横道及 College／Allen 附近公交站同期关闭，乘客可查看 CATA 替代站点安排。",
+          "source": "StateCollege.com · 原文 2026-09-25 02:13:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/multi-day-lane-closure-planned-for-roadwork-on-college-avenue-in-downtown-state-college/",
+          "published_at": "2026-09-25T02:13:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "习近平与特朗普9月24日在白宫会谈；据新华社报道，习近平表示双方经贸团队新一轮磋商达成新的联合安排，并提出继续开展人工智能对话。报道还称，两国元首讨论了中东、乌克兰及朝鲜半岛局势，但未披露经贸安排的具体条款。",
+          "source": "新华社 · 原文 2026-09-25 04:11:23+08:00",
+          "url": "https://www2.xinhuanet.com/politics/leaders/20260925/9cf2a7ba302648b2a63473a3c00b607a/c.html",
+          "published_at": "2026-09-25T04:11:23+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [],
+      "note": "本次检索未找到过去24小时内可充分核实的重要新进展；部分早报重述此前消息，未用旧闻凑数。"
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 发布新补丁，修复先点按再长按换弹键可加速静音换弹，以及利用静音换弹提高霰弹枪射速的问题。Rush 模式补充载入画面规则说明、调整友伤踢人判定，并修复碰撞与 AK-47 检视动画。",
+          "source": "Valve／Steam · 原文 2026-09-24 21:51:38+00:00",
+          "url": "https://store.steampowered.com/news/app/730/view/674006995886409095",
+          "published_at": "2026-09-24T21:51:38+00:00"
+        }
+      ]
+    }
+  ]
+}

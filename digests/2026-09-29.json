@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T13:08:16+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "乌克兰空军称，俄军29日以弹道导弹和数十架喷气式无人机袭击基辅；这类高速无人机正增加当地防空拦截压力。",
+          "source": "AP · 原文 2026-09-29 09:59:07+00:00",
+          "url": "https://apnews.com/article/aceadaec18c41244dc6e9d17732ba256",
+          "published_at": "2026-09-29T09:59:07+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "SpaceX星舰第14次试飞首次进入地球轨道，并释放26颗新一代Starlink卫星；任务提前结束，飞行约3小时后在夏威夷附近溅落，随后解体起火。",
+          "source": "Ars Technica · 原文 2026-09-28 21:26:19+00:00",
+          "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+          "published_at": "2026-09-28T21:26:19+00:00"
+        },
+        {
+          "summary": "NASA宣布追加支持波音Starliner，升级和火箭认证预计再耗资3.59亿美元；计划最快12月先执行无人货运飞行，载人任务须待安全改造完成，预计2028年。",
+          "source": "AP · 原文 2026-09-28 21:04:33+00:00",
+          "url": "https://apnews.com/article/236036f051edf05ddc58c1014b199278",
+          "published_at": "2026-09-28T21:04:33+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "WESA报道，宾州卫生部门已撤回拟扩大疾病监测及疫情调查权限的502页规章草案，表示修订后将重新提交。州议员对隐私与政府权限存在分歧；该草案尚未生效。",
+          "source": "90.5 WESA · 原文 2026-09-29 05:30:00-04:00",
+          "url": "https://www.wesanews.org/text/politics-government/2026-09-29/pa-health-department-guidance-on-hold",
+          "published_at": "2026-09-29T05:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "State College市中心第25届Fall Fest将于10月3日10:00—15:00在South Allen Street的200街区举行，入场和亲子活动免费，现场设免费南瓜及儿童活动。",
+          "source": "StateCollege.com · 原文 2026-09-28 15:53:00-04:00",
+          "url": "https://www.statecollege.com/articles/community/downtown-state-college-to-celebrate-25th-fall-fest-with-free-family-activities/",
+          "published_at": "2026-09-28T15:53:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "农业农村部29日发布消息称，今年夏粮产量首次突破3000亿斤，早稻产量连续6年稳定在560亿斤以上；秋粮正大面积收获，全年丰收仍是当前预期。",
+          "source": "新华网 · 原文 2026-09-29 10:00:58+08:00",
+          "url": "https://www3.xinhuanet.com/fortune/20260929/ff17117cd3724ede91c20241d7ed713f/c.html",
+          "published_at": "2026-09-29T10:00:58+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳市商务局公布，前8个月深圳综合保税区（含保税区）进出口总额9942.8亿元，同比增长52.2%，占全市外贸总额24.9%；其中前海综保区进出口4810.8亿元，同比增长95.5%。",
+          "source": "深圳市商务局 · 原文 2026-09-29 09:35:00+08:00",
+          "url": "https://commerce.sz.gov.cn/xxgk/qt/gzdt_1/content/post_13001971.html",
+          "published_at": "2026-09-29T09:35:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve发布CS2补丁：修复Rush多个房间的像素级缝隙，并调整T/CT Castle房间的碰撞边界。",
+          "source": "Valve / Steam · 原文 2026-09-28 15:38:25-07:00",
+          "url": "https://steamcommunity.com/games/CSGO/announcements/detail/674006995886409693",
+          "published_at": "2026-09-28T15:38:25-07:00"
+        }
+      ]
+    }
+  ]
+}

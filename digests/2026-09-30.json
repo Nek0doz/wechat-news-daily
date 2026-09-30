@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T13:06:34+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "伊朗政府发言人称，伊方已收到美国对其停战提案的正式回应，外长已向总统汇报；回应内容及是否接受提案尚未公布。",
+          "source": "AP · 原文 2026-09-30 10:59:39+00:00",
+          "url": "https://apnews.com/article/2c42d71d8a4be3443147cd65a6ee9193",
+          "published_at": "2026-09-30T10:59:39+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "特朗普与多家主要AI企业负责人签署自愿性协议，要求建立内部风险控制、独立外部审计及董事会审查机制；这些承诺目前尚未成为强制法律规定。",
+          "source": "AP · 原文 2026-09-29 17:10:48+00:00",
+          "url": "https://apnews.com/article/595796511f110fc006cca0d01329733e",
+          "published_at": "2026-09-29T17:10:48+00:00"
+        },
+        {
+          "summary": "美国政府问责局认定，若国会未完成相应撤销拨款程序，政府不能在财政年度结束后继续扣留逾8亿美元的已批准资金；该意见针对特朗普拟取消11个拨款账户资金的计划。",
+          "source": "AP · 原文 2026-09-29 19:59:45+00:00",
+          "url": "https://apnews.com/article/af985be40c136d1d590761e21aae88b9",
+          "published_at": "2026-09-29T19:59:45+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "卡内基梅隆大学宣布获Ken Griffin捐赠30亿美元，其中10亿美元用于匹兹堡主校区的计算机科学及其他项目；另20亿美元用于建设迈阿密新校区，计划明年动工。",
+          "source": "AP · 原文 2026-09-30 09:06:43+00:00",
+          "url": "https://apnews.com/article/9d32ac503d6a93ab382aa1927b454ecf",
+          "published_at": "2026-09-30T09:06:43+00:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Centre County委员批准Mount Nittany经医院管理机构进行最高1.5亿美元免税融资，用于住院大楼及Bellefonte新医疗办公楼。额度不代表全部使用，款项由医院偿还，不使用县或州资金。",
+          "source": "StateCollege.com · 原文 2026-09-30 05:00:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/commissioners-ok-tax-exempt-financing-through-hospital-authority-for-ongoing-mount-nittany-building-projects/",
+          "published_at": "2026-09-30T05:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家统计局公布，9月制造业PMI升至50.1%，较上月提高0.3个百分点，重回扩张区间；中、小企业PMI仍低于50%，从业人员指数降至48.4%。",
+          "source": "国家统计局 · 原文 2026-09-30 09:30:00+08:00",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202609/t20260930_1965449.html",
+          "published_at": "2026-09-30T09:30:00+08:00"
+        },
+        {
+          "summary": "国家发改委和财政部已向地方下达第四批625亿元消费品以旧换新资金，全年2500亿元至此全部下达。新华社获悉，前8个月相关商品销售额达1.55万亿元，补贴惠及2.08亿人次。",
+          "source": "新华网 · 原文 2026-09-30 12:18:39+08:00",
+          "url": "https://www.xinhuanet.com/20260930/89d635d9757b415a9ed8f0dc829340d5/c.html",
+          "published_at": "2026-09-30T12:18:39+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "大鹏新区鹏坝通道29日开放通行，双向四车道、全长约5.9公里，连接坝光与鹏城片区。据深圳新闻网报道，坝光至较场尾车程由约30分钟缩短至约10分钟。",
+          "source": "深圳新闻网 · 原文 2026-09-30（仅日期，UTC+08:00）",
+          "url": "https://www.sznews.com/news/content/2026-09/30/content_32183791.htm",
+          "published_at": "2026-09-30",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "G2正式宣布SunPayus离队；他自6月被r1nkle替换后一直处于替补席。此次离队公告未确认他的下一支战队。",
+          "source": "RUR Esports（塞尔维亚语） · 原文 2026-09-29 19:53:12+02:00",
+          "url": "https://rur.rs/2026/09/29/sunpayus-vise-nije-clan-g2/",
+          "published_at": "2026-09-29T19:53:12+02:00"
+        }
+      ]
+    }
+  ]
+}

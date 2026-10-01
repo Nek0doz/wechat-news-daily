@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T13:06:59+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "基辅市长称，俄军无人机10月1日击中一所学校，当时师生已进入避难所，弹头未爆炸，暂无伤亡报告；校舍外墙和窗户受损。",
+          "source": "Associated Press · 原文 2026-10-01 10:11:16+00:00",
+          "url": "https://apnews.com/article/1c4ea39898c03a432c8f005cb6b1f32c",
+          "published_at": "2026-10-01T10:11:16+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国国防部长赫格塞思宣布计划组建新的无人机作战司令部，统筹自主与机器人作战能力，并削减20%的将官职位。相关安排在9月30日的“部队状况”讲话中公布。",
+          "source": "Associated Press · 原文 2026-09-30 19:24:19+00:00",
+          "url": "https://apnews.com/article/hegseth-pentagon-generals-job-cuts-67a20b026ee858895c7e5ff7fadbc029",
+          "published_at": "2026-09-30T19:24:19+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州众议院通信与技术委员会通过三项措施，涉及AI内容来源标识、限制流媒体广告音量，以及研究无人驾驶对安全和就业的影响。这些措施将交众议院全院审议，尚不能视为已生效的法律要求。",
+          "source": "PA House（官方）· 原文 2026-09-30 13:14-04:00",
+          "url": "https://www.pahouse.com/SouthEastDelegation/InTheNews/NewsRelease/?id=145440",
+          "published_at": "2026-09-30T13:14:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "WHYY与Penn State完成WPSU转让协议，使这家曾面临关闭的公共广播机构得以继续服务宾州中北部居民。WPSU保留名称与呼号，继续提供PBS、NPR及本地节目。",
+          "source": "WPSU · 原文 2026-09-30 15:00-04:00",
+          "url": "https://radio.wpsu.org/2026-09-30/penn-state-whyy-deal-finalized-new-era-begins-for-wpsu",
+          "published_at": "2026-09-30T15:00:00-04:00"
+        },
+        {
+          "summary": "Centre Region选定斯克兰顿消防局长John Judge为下一任地区消防主管，定于11月23日上任。他将负责服务State College及周边约9.3万居民的消防项目。",
+          "source": "StateCollege.com · 原文 2026-09-30 13:45-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/scranton-fire-chief-named-next-centre-region-fire-director/",
+          "published_at": "2026-09-30T13:45:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "据交通运输部提供的数据，国庆首日全国跨区域人员流动量预计达3.341亿人次，其中铁路客运量预计2480万人次。上述为当日预测值，各地铁路部门正向热门方向增投运力。",
+          "source": "中国旅游新闻网 · 原文 2026-10-01（仅日期，UTC+08:00）",
+          "url": "https://www.ctnews.com.cn/dongtai/content/2026-10/01/content_192795.html",
+          "published_at": "2026-10-01",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [],
+      "note": "本轮检索未找到同时满足过去24小时、发布时间可核实及重要性要求的新进展；节前交通提醒、已报道通车消息和营销活动不重复收录。"
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve发布CS2更新，新增准星轮廓颜色和“Static Quadrant”样式，修正武器散布显示，并允许在冻结时间按住投掷键显示手雷准星。准星分享码也已扩展，可包含瞄准镜圆点的大小与颜色设置。",
+          "source": "Valve / Steam · 原文 2026-09-30 22:46:19+00:00",
+          "url": "https://steamcommunity.com/games/CSGO/announcements/detail/675133527946166403",
+          "published_at": "2026-09-30T22:46:19+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T13:06:59+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "联合国粮农组织公布，9月全球食品价格指数为136.0点，较修订后的8月上涨1.5%，同比上涨5.8%。谷物、糖和植物油价格上涨，肉类价格下降，乳制品价格基本稳定。",
+          "source": "FAO · 原文 2026-10-02（仅日期，UTC+02:00）",
+          "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en",
+          "published_at": "2026-10-02",
+          "published_timezone": "+02:00"
+        },
+        {
+          "summary": "据刚果（金）卫生部门最新数据，本轮埃博拉疫情累计报告8300例确诊、4018例死亡。部分一线卫生人员因欠薪抗议，疫情应对工作继续面临人员和资源压力。",
+          "source": "Associated Press · 原文 2026-10-02 08:45:09+00:00",
+          "url": "https://apnews.com/article/congo-ebola-outbreak-virus-4c79b59ec81a08675d2506c9e176d125",
+          "published_at": "2026-10-02T08:45:09+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国劳工统计局公布，9月非农就业增加2.9万人，失业率为4.2%；7月与8月就业增量合计下修6万人。9月私营部门平均时薪环比上涨0.1%，同比上涨3.0%。",
+          "source": "美国劳工统计局 BLS · 原文 2026-10-02 08:30-04:00",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+          "published_at": "2026-10-02T08:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州公用事业委员会以4比0通过征求意见的暂定命令，拟在电力紧张时优先限制部分未落实足够新增电力容量的数据中心等大负荷用户用电。方案仍在征求意见阶段，尚非最终规则。",
+          "source": "First News Now PA · 原文 2026-10-02 02:13:46+00:00",
+          "url": "https://www.firstnewsnowpa.com/puc-advances-consumer-safeguards-as-data-center-growth-adds-new-demands-to-electric-grid/",
+          "published_at": "2026-10-02T02:13:46+00:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "PennDOT宣布，I-99在Centre County约20英里路段将开展路面与桥面修复；周一（10月5日）起，南向80号出口至Port Matilda附近58英里标记之间将于晚7点至次日早6点短时关闭单车道。数周后施工将转至北向，工期安排可能随天气调整。",
+          "source": "StateCollege.com · 原文 2026-10-01 14:35-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/road-work-to-cause-lane-closures-on-i-99-in-centre-county/",
+          "published_at": "2026-10-01T14:35:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家林草局部署新一轮松材线虫病防控五年攻坚行动，目标是到2030年把疫情面积控制在1000万亩以下、县级疫区控制在600个以下。措施包括加强疫情监测、疫木管控和跨区域联防联控。",
+          "source": "新华社 · 原文 2026-10-02 14:25:58+08:00",
+          "url": "https://www3.xinhuanet.com/20261002/f9b9f24a856c4c1e98b2950d7f6d75f1/c.html",
+          "published_at": "2026-10-02T14:25:58+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳龙岗交警国庆期间持续开展酒后驾驶专项检查，机动车和电动自行车均在查处范围内。深圳新闻网报道，南湾中队10月2日凌晨查获一名涉嫌酒后骑行的电动车驾驶人。",
+          "source": "深圳新闻网 · 原文 2026-10-02（仅日期，UTC+08:00）",
+          "url": "https://www.sznews.com/news/content/2026-10/02/content_32184950.htm",
+          "published_at": "2026-10-02",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "HEROIC宣布由Snappi接任主教练，替代转入替补席的doto；Snappi由此结束选手生涯，转向执教。他预计在10月12日至17日于瑞典举行的Stake Pulse Beat III迎来执教首秀。",
+          "source": "Dust2.dk（丹麦语）· 原文 2026-10-01 17:56+02:00",
+          "url": "https://www.dust2.dk/nyheder/78409/snappi-bliver-traener-i-heroic",
+          "published_at": "2026-10-01T17:56:00+02:00"
+        }
+      ]
+    }
+  ]
+}

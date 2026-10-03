@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T09:08:06-04:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "七国集团宣布将通过国际能源署协调，在未来四个月释放1亿桶石油及成品油，并在最初20天集中释放相当数量的柴油，以缓解能源价格压力；这是释放计划，并非储备已全部投放市场。",
+          "source": "Associated Press｜2026-10-02 14:10 UTC",
+          "url": "https://apnews.com/article/774a360d1646d9ce8aba764fdd9959d2",
+          "published_at": "2026-10-02T14:10:11+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "得克萨斯州联邦法院暂时禁止特朗普政府在 Big Bend 地区修建边境墙及相关基础设施，范围包括国家公园及周边边境区域。禁令适用于案件审理期间，并非对整起诉讼作出的最终判决。",
+          "source": "Associated Press｜2026-10-02 20:49 UTC",
+          "url": "https://apnews.com/article/56ea4f79b989a4c894e1f2256bc0b886",
+          "published_at": "2026-10-02T20:49:36+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "州长 Shapiro 宣布拨出4.48亿美元 BEAD 宽带补助，用于覆盖50个县的41个高速互联网项目；其中约2900万美元用于 Centre 和 Mifflin 两县。这是宾州获批7.11亿美元联邦宽带资金的首轮项目拨款，尚不代表网络已建成。",
+          "source": "StateCollege.com｜2026-10-02 18:43 EDT",
+          "url": "https://www.statecollege.com/articles/local-news/shapiro-visits-centre-county-to-announce-major-funding-for-high-speed-internet-expansion/",
+          "published_at": "2026-10-02T18:43:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "本轮未核实到过去24小时内不重复的重要地方更新；涉及 Centre County 的全州宽带拨款已列入宾夕法尼亚州新闻。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国铁集团扩大老年旅客票价优惠：年满60周岁的旅客购买10月18日至12月30日、12306标注“敬”字车次的车票，可在执行票价基础上再享9折，且不再限于周中。相关优惠车票将于10月4日起陆续发售。",
+          "source": "新华社｜2026-10-03 10:19 北京时间",
+          "url": "https://www.news.cn/politics/20261003/cd4cbef523a64982abe56ef032c2a335/c.html",
+          "published_at": "2026-10-03T10:19:55+08:00"
+        },
+        {
+          "summary": "教育部部署2027届高校毕业生“金秋启航”校园招聘月，活动于9月至11月集中开展，并加强人工智能、数字经济等领域的岗位对接。对脱贫家庭、低保家庭、零就业家庭及残疾人等重点群体毕业生，原则上每人至少推荐3个有效岗位。",
+          "source": "新华社｜2026-10-03 16:47 北京时间",
+          "url": "https://education.news.cn/20261003/726edb8173024cfa9990c11da7a5083a/c.html",
+          "published_at": "2026-10-03T16:47:19+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "据深圳市气象台预报，4日仍有短时雷阵雨，5日起冷空气将带来降温，沿海高地和海区阵风可达7级左右。预计6日至9日转为多云到晴、空气干燥，早晚温差增大。",
+          "source": "人民网／深圳特区报｜2026-10-03 08:43 北京时间",
+          "url": "https://sz.people.com.cn/n2/2026/1003/c202846-41713815.html",
+          "published_at": "2026-10-03T08:43:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 发布 CS2 更新，修复准星粗细设为3像素时的投掷物准星显示问题，并将新增准星设置加入创意工坊控制台变量白名单。更新还改善 Warehouse 地图照明和稳定性，探员在拍照模式及购买菜单中会显示已装备的手套。",
+          "source": "Valve／Steam｜2026-10-02 22:24 UTC",
+          "url": "https://store.steampowered.com/news/app/730/view/675133527946167652",
+          "published_at": "2026-10-02T22:24:13+00:00"
+        }
+      ]
+    }
+  ]
+}

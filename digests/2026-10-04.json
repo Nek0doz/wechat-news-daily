@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T09:04:42-04:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "据法新社报道，拉脱维亚总理 Andris Kulbergs 领导的联合名单党在议会选举中赢得100席中的42席，成为最大党，但仍需与其他政党组阁。Kulbergs 表示将继续亲欧、支持乌克兰的路线，组阁谈判尚待展开。",
+          "source": "AFP｜2026-10-04 11:53 UTC",
+          "url": "https://www.afp.com/en/pro-europe-latvian-pm-wins-poll-dominated-russia-social-worries",
+          "published_at": "2026-10-04T13:53:35+02:00"
+        },
+        {
+          "summary": "德国总理 Merz 与经济部长及企业代表抵达基辅，重申对乌克兰的支持，并计划讨论无人机生产等合作。访问期间，基辅市长称北桥遭俄军袭击；有关援助及合作安排仍应以正式公布结果为准。",
+          "source": "DW｜2026-10-04 05:07 UTC",
+          "url": "https://amp.dw.com/en/germanys-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734",
+          "published_at": "2026-10-04T05:07:16.785+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "特朗普政府宣布，计划在10月向逾2000万名符合条件的传统 Medicare Part B 参保老人一次性支付90美元，用于抵扣保费，资金来自 Medicare Improvement Fund。Medicare Advantage 参保者不在适用范围内，这不代表所有 Medicare 参保人均能领取。",
+          "source": "Associated Press｜2026-10-03 20:58 UTC",
+          "url": "https://apnews.com/article/2a314c1c4b5ae929f3dfc8a262b4f1c7",
+          "published_at": "2026-10-03T20:58:47+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [],
+      "note": "本轮未核实到过去24小时内符合筛选标准、具有重要新进展的州级新闻；不重复此前的宽带拨款等报道。"
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "已检查 State College、Centre County 及当地媒体来源，本轮未核实到过去24小时内可靠且不重复的重要地方更新。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "公安部交管局通报，国庆假期第四天全国主干公路流量仍处高位，截至18时道路交通总体平稳。返程高峰临近，吉林、福建、云南和海南部分地区预计有大到暴雨，交管部门提醒提前规划、避开高峰及恶劣天气。",
+          "source": "新华社｜2026-10-04 20:16 北京时间",
+          "url": "https://www.news.cn/politics/20261004/72c6f47663574469882174e4b9927ffe/c.html",
+          "published_at": "2026-10-04T20:16:20+08:00"
+        },
+        {
+          "summary": "2027年硕士研究生招生初试将于10月15日至24日报名，首次实行网上报名与网上确认一体化，填报信息和志愿后可一并提交核验材料。报名照片改为在基本信息填写阶段通过学信网 App 在线拍摄上传，背景统一要求为白色。",
+          "source": "新华社｜2026-10-04 09:58 北京时间",
+          "url": "https://education.news.cn/20261004/41af50f46b5c400e88a13eef32c185df/c.html",
+          "published_at": "2026-10-04T09:58:29+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [],
+      "note": "本轮未核实到过去24小时内符合筛选标准的重要交通、民生或公共服务新进展；此前天气及节假日运力安排不重复收录。"
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Ninjas in Pyjamas 在 ROG JOURNEY Autumn 2026 决赛中以2比0击败 Eternal Fire，六天内第二次夺得线下赛冠军。两张地图 Dust2 和 Inferno 的比分分别为13比4、13比11。",
+          "source": "Dust2.dk｜2026-10-03 21:45 CEST",
+          "url": "https://www.dust2.dk/nyheder/78512/nip-vinder-andet-trofae-paa-seks-dage",
+          "published_at": "2026-10-03T21:45:00+02:00"
+        }
+      ]
+    }
+  ]
+}

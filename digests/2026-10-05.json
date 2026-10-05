@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T13:09:43+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "巴西总统选举进入第二轮：在接近99%的选票完成统计时，弗拉维奥·博索纳罗约获47%选票，卢拉约获45%，均未过半。巴西高等选举法院确认，两人将于10月25日再次对决。",
+          "source": "El País（西班牙语）｜10月5日03:27 CEST",
+          "url": "https://elpais.com/america/2026-10-05/flavio-bolsonaro-tras-ganar-la-primera-vuelta-brasil-quiere-cambio-se-ha-decretado-el-fin-de-la-era-del-pt.html",
+          "published_at": "2026-10-05T01:27:32+00:00"
+        },
+        {
+          "summary": "Karl Deisseroth、Peter Hegemann和Georg Nagel共同获得2026年诺贝尔生理学或医学奖，以表彰其推动光遗传学发展的发现。这项技术让研究人员能用光控制特定神经细胞的活动，帮助研究脑回路。",
+          "source": "Stanford Medicine（英语）｜2026-10-05（美国太平洋时间）",
+          "url": "https://med.stanford.edu/news/all-news/2026/10/deisseroth-nobel-prize.html",
+          "published_at": "2026-10-05",
+          "published_timezone": "-07:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国最高法院10月5日开启新审期，首先审理能源企业试图阻止气候损害索赔诉讼的上诉。本审期还将处理移民遣返与拘留、枪支限制及宗教权利等重大争议；这些案件尚待裁决。",
+          "source": "Associated Press（英语）｜10月5日04:10 UTC",
+          "url": "https://apnews.com/article/supreme-court-immigration-climate-change-religious-rights-voting-389e2c111d351361c406e5ed7e0728c5",
+          "published_at": "2026-10-05T04:10:12+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州州警上线“skill games”合规说明网页，提醒经营者10月13日为移除未经许可老虎机及相关设备的期限，单纯断电不算完成移除。州警称，10月14日起仍保有或经营这些设备的场所可能面临设备没收及刑事追诉。",
+          "source": "PennWatch（英语）｜10月5日08:33 EDT",
+          "url": "https://pennwatch.org/psp-reminds-businesses-of-skill-games-deadline-launches-informational-website/",
+          "published_at": "2026-10-05T08:33:25-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "已检索StateCollege.com、WPSU及当地相关来源；截至生成时，未核实到过去24小时内值得优先收录的重大民生、交通、公共安全或市政更新。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "交通运输部预计，10月6日全国79个高速公路服务区充电将特别繁忙，主要涉及湖南、河北、广东等地。返程前可通过“e路畅通”微信小程序查看服务区充电设施状态，提前安排补能。",
+          "source": "交通运输部（新华网刊载）｜10月5日19:08 北京时间",
+          "url": "https://www.news.cn/politics/20261005/fe3897772a8f458ca73e6656ff1f1e34/c.html",
+          "published_at": "2026-10-05T19:08:59+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [],
+      "note": "已检查深圳新闻网本地报道并追溯来源；供电改造和登山救援追偿消息均已有更早报道，本期未发现经核实的重要新进展，不以旧闻补数。"
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Astralis在巴塞罗那举行的Stake Ranked Episode 4决赛中以3比1击败Nemiga夺冠。丹麦战队拿下Mirage、Nuke和Cache，仅在Ancient失利。",
+          "source": "Dust2.dk（丹麦语）｜10月4日22:13 CEST",
+          "url": "https://www.dust2.dk/nyheder/78543/astralis-vinder-foerste-trofae-i-mere-end-2-aar",
+          "published_at": "2026-10-04T20:13:00+00:00"
+        }
+      ]
+    }
+  ]
+}

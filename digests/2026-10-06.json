@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T13:04:23+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "俄国防部称，防空系统一夜间在俄罗斯多地、被占领的克里米亚及亚速海一带拦截了近900架乌克兰无人机；这一数量为俄方说法。泽连斯基同日警告俄罗斯正准备大规模空袭，并表示乌方正在采取应对措施。",
+          "source": "Associated Press（英语）｜10月6日10:39 UTC",
+          "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-d6e8cbb6d0ffdc7cbd2da59b9cd6f7c9",
+          "published_at": "2026-10-06T10:39:52+00:00"
+        },
+        {
+          "summary": "威斯康星大学麦迪逊分校物理学家Francis Halzen获得2026年诺贝尔物理学奖，以表彰他对IceCube中微子观测站及高能天体中微子研究的贡献。IceCube利用南极冰层探测这些难以捕捉的粒子，为研究遥远宇宙提供新的观测方式。",
+          "source": "UW–Madison News（英语）｜2026-10-06（美国中部时间）",
+          "url": "https://news.wisc.edu/university-of-wisconsin-madison-professor-francis-halzen-named-2026-nobel-laureate-in-physics/",
+          "published_at": "2026-10-06",
+          "published_timezone": "-05:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "特朗普签署柴油税款救济行政令，要求财政部在确认法律授权后，将10月5日至12月31日期间的特定柴油税款延期缴纳，并安排染色柴油用于公路运输的罚款减免。适用条件与补缴期限仍需实施指引明确，税款延期不等于已经免税。",
+          "source": "The White House（英语）｜10月5日21:13 EDT",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+          "published_at": "2026-10-06T01:13:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州宣布为托育人员招聘和留任补助增加500万美元，使本年度项目资金达到3000万美元，符合条件的员工留任补助至少为540美元。符合资格的Child Care Works持牌机构可于10月13日至11月30日向当地早期学习资源中心申请。",
+          "source": "WPXI（英语）｜10月5日21:26 EDT",
+          "url": "https://www.wpxi.com/news/local/officials-gather-allegheny-county-announce-extra-state-funding-child-care-staffing/WRO566W2IZFGNDU7CXJOTDVGQU/?outputType=amp",
+          "published_at": "2026-10-06T01:26:08.135+00:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "美国航空往返State College与夏洛特的每日两班直飞服务已于10月5日开通，首班抵达航班当天下午降落。机场称，新航线让本地旅客除费城外，再增加一个美国航空枢纽中转选择，可衔接170多个目的地。",
+          "source": "StateCollege.com（英语）｜10月5日21:26 EDT",
+          "url": "https://www.statecollege.com/articles/local-news/charlotte-flights-begin-at-state-college-regional-airport/",
+          "published_at": "2026-10-05T21:26-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "农业农村部10月6日发布的最新农情调度显示，全国秋粮已收获约35%。其中西南地区接近七成，长江中下游接近五成，黄淮海和西北超过四成，东北超过一成。",
+          "source": "新华社｜10月6日19:50 北京时间",
+          "url": "https://www.news.cn/20261006/2dbfc6238fd74dcfa862ac57c85e0933/c.html",
+          "published_at": "2026-10-06T19:50:45+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "广东交警预计10月6日、7日迎来国庆返程高峰，最新公布的繁忙易拥堵路段包括深圳深中通道往中山方向、沈海高速（机荷高速）往广州方向。途经这些路段的旅客可提前查看实时路况，合理安排路线和时间。",
+          "source": "南方都市报（21财经刊载）｜10月6日07:07 北京时间",
+          "url": "https://m.21jingji.com/article/20261006/herald/54d02fb055359206d9cc113e531bcc82.html",
+          "published_at": "2026-10-06T07:07+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve发布CS2小型更新，在游玩菜单中加入管理已下载创意工坊地图的按钮，并为宠物相册页面加入本地化文字美术。更新还调整了VK着色器缓存扩展标志。",
+          "source": "Valve / Steam（英语）｜10月5日16:39 PDT",
+          "url": "https://steamcommunity.com/games/CSGO/announcements/detail/675133527946168309",
+          "published_at": "2026-10-05T23:39:43+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T13:06:13+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "2026 年诺贝尔化学奖授予 Henri Kagan 和 Kenso Soai，表彰他们发现不对称有机合成中的非线性效应与自催化现象。法国科学院表示，这些研究对生命化学和药物制造具有重要意义。",
+          "source": "法国科学院 · 2026-10-07（法国日期）",
+          "url": "https://www.academie-sciences.fr/henri-kagan-membre-de-lacademie-des-sciences-et-kenso-soai-laureats-du-prix-nobel-de-chimie-2026",
+          "published_at": "2026-10-07",
+          "published_timezone": "+02:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "环保组织 Food & Water Watch 对美国 500 家大型社区供水机构的新分析发现，2015—2025 年平均水费上涨 62%，涨幅超过同期总体通胀，且达到食品价格涨幅的两倍以上。该样本服务约 1.55 亿人，报告凸显家庭用水负担加重。",
+          "source": "Stateline · 2026-10-06 09:31 EDT",
+          "url": "https://stateline.org/2026/10/06/americans-water-bills-are-growing-faster-than-groceries-overall-inflation/",
+          "published_at": "2026-10-06T09:31-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "美国联邦政府正出售宾州 Tremont Township 和 Upper Bern Township 两处原计划改建为 ICE 拘留中心的仓库，并与其他州五处仓库一同招商。此前拘留中心计划已取消，目前属于挂牌出售阶段，尚无公开成交价。",
+          "source": "Pennsylvania Capital-Star · 2026-10-06 13:01 EDT",
+          "url": "https://penncapital-star.com/immigration/ice-looks-to-sell-two-pennsylvania-warehouses-and-others-initially-planned-for-detention-center/",
+          "published_at": "2026-10-06T13:01-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Bellefonte 学区与代表约 230 名教师和职员的工会最新一轮谈判仍未达成新合同，下一轮定于 10 月 10 日。工会表示，若仍无协议，将按原计划于 10 月 12 日开始罢工；罢工尚未发生。",
+          "source": "StateCollege.com · 2026-10-06 13:43 EDT",
+          "url": "https://www.statecollege.com/articles/education/bellefonte-teachers-and-staff-union-still-headed-toward-strike-after-latest-round-of-negotiations/",
+          "published_at": "2026-10-06T13:43-04:00"
+        },
+        {
+          "summary": "宾州交通厅公布 I-80／I-99 互通工程封路安排：天气允许时，10 月 8 日 6—16 时将关闭 Jacksonville Road 的 Forest Avenue 至 I-80 西向路段，并关闭 I-80 西向 161 号出口匝道。10 月 12 日起至月底，161 号出口处的 I-80 东向入口匝道也将关闭，驾驶者须按绕行标识通行。",
+          "source": "StateCollege.com · 2026-10-06 16:29 EDT",
+          "url": "https://www.statecollege.com/articles/local-news/road-exit-closures-planned-for-work-on-high-speed-interchange-project/",
+          "published_at": "2026-10-06T16:29-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家外汇管理局公布，9 月末中国外汇储备为 3.4003 万亿美元，较 8 月末减少 381 亿美元，降幅 1.11%。外汇局表示，美元指数上涨及全球金融资产价格变化等汇率折算、资产价格因素共同影响了储备规模。",
+          "source": "新华社 · 2026-10-07 10:57:35 北京时间",
+          "url": "https://www.news.cn/fortune/20261007/823a4287d5d047bca23e3277c333d94a/c.html",
+          "published_at": "2026-10-07T10:57:35+08:00"
+        },
+        {
+          "summary": "多家航空公司调整国内航线燃油附加费：自 10 月 10 日零时起销售的客票，800 公里及以下航段每人收取 50 元，超过 800 公里收取 90 元，分别上调 10 元和 20 元。适用时间以购票日期为准。",
+          "source": "新华社 · 2026-10-07 11:41:30 北京时间",
+          "url": "https://www.news.cn/fortune/20261007/4261439e9c8c4103bbdb67e516fc4142/c.html",
+          "published_at": "2026-10-07T11:41:30+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "为应对国庆返程高峰，深圳北、深圳、深圳东和福田站候车室在 10 月 6—8 日通宵开放。深圳特区报援引交通保障安排称，公交和地铁延长服务，凌晨 2 时前乘火车抵达深圳北站的旅客可衔接市内公共交通。",
+          "source": "深圳特区报（搜狐号）· 2026-10-07 07:44 北京时间",
+          "url": "https://m.sohu.com/a/1084623492_121384255",
+          "published_at": "2026-10-07T07:44+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 更新了新加坡 Major 的区域归属规则：一支阵容只有在此前三个自然月未出现在其他赛区的 VRS 榜单上，才有资格获得相应赛区归属。新条款限制了临近 Major 邀请时通过更换赛区争取名额的做法。",
+          "source": "Valve 官方规则提交 · 2026-10-06 16:59:52 UTC",
+          "url": "https://github.com/ValveSoftware/counter-strike_rules_and_regs/commit/745a40758ed7877483d5544605cda6c6e1a1cd65",
+          "published_at": "2026-10-06T16:59:52Z"
+        }
+      ]
+    }
+  ]
+}

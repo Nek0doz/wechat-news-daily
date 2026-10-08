@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T13:04:26+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "乌克兰当局称，俄军袭击克拉马托尔斯克两辆载客巴士，造成至少 30 人死亡、18 人受伤。克拉马托尔斯克和邻近斯洛维扬斯克因安全局势恶化暂停公共交通；伤亡数字来自乌方通报。",
+          "source": "Deutsche Welle · 2026-10-08（德国日期）",
+          "url": "https://amp.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331",
+          "published_at": "2026-10-08",
+          "published_timezone": "+02:00"
+        },
+        {
+          "summary": "美联社目击者称，沙特首都利雅得及其国际机场传出爆炸声。也门胡塞武装宣称再次以弹道导弹袭击哈立德国王国际机场，但未提供证据；报道时沙特尚未回应这一说法。",
+          "source": "Associated Press · 2026-10-08 12:05:05 UTC",
+          "url": "https://apnews.com/article/saudi-arabia-explosions-riyadh-airport-35194542a9d7ae54fca983db5f4f1adb",
+          "published_at": "2026-10-08T12:05:05Z"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国国家飓风中心 10 月 8 日早间通报，飓风 Isaias 最大持续风速约每小时 130 公里，预计继续增强，并于 9 日深夜至 10 日清晨登陆美国北部墨西哥湾沿岸。密西西比州 Ocean Springs 至佛罗里达州 Bay／Gulf 县界已发布飓风警报，部分沿海地区面临危及生命的风暴潮。",
+          "source": "美国国家飓风中心 · 2026-10-08 07:00 CDT",
+          "url": "https://www.nhc.noaa.gov/archive/2026/al09/al092026.public_a.007.shtml",
+          "published_at": "2026-10-08T07:00-05:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州州务卿 Al Schmidt 在 10 月 7 日记者会上提醒选民安排投票：11 月 3 日选举的登记截止日为 10 月 19 日，邮寄或缺席选票申请须于 10 月 27 日下午 5 时前送达县选举办公室。填妥的邮寄选票须在选举日晚上 8 时前被收到，不能只按寄出时间计算。",
+          "source": "Pennsylvania Capital-Star · 2026-10-07 14:35 EDT",
+          "url": "https://penncapital-star.com/election-2026/pa-s-top-election-official-urges-voters-to-plan-for-upcoming-deadlines/",
+          "published_at": "2026-10-07T14:35-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "延宕多年的 Bellefonte Waterfront 项目开始场地准备，West High Street 与 Dunlop Street 附近空地本周已围起围栏。市镇称，开发协议完成后工程得以推进，未来数周将进场设备并设置水土流失防护；项目规划包括酒店、住宅、商业空间及停车楼。",
+          "source": "StateCollege.com · 2026-10-08 02:00 EDT",
+          "url": "https://www.statecollege.com/articles/bellefonte/site-work-getting-underway-for-long-planned-bellefonte-waterfront-project/",
+          "published_at": "2026-10-08T02:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "人社部公布《新就业形态劳动者权益保障办法》征求意见稿，征求意见至 11 月 8 日，拟规范平台用工报酬、休息及算法管理。草案提出报酬结算周期最长不超过一个月，涉及停派单、封号等重大利益的决定须经人工审核；这些仍是拟议规定。",
+          "source": "新华社 · 2026-10-08 17:16:58 北京时间",
+          "url": "https://www3.xinhuanet.com/politics/20261008/5f46506a518044ca9fb0d275015f5f2d/c.html",
+          "published_at": "2026-10-08T17:16:58+08:00"
+        },
+        {
+          "summary": "国家卫健委、国家发展改革委印发医疗康复护理扩容提升方案，提出到 2030 年力争每千人口康复护理床位约 0.48 张，每万人口康复医师 0.7 人、康复治疗师 1.6 人。方案包含 13 项任务，重点增加资源供给、完善服务网络并加强人才培养。",
+          "source": "新华社 · 2026-10-08 11:12:15 北京时间",
+          "url": "https://www.news.cn/20261008/8a0c8305458641ab8cf848bb0acdf8d7/c.html",
+          "published_at": "2026-10-08T11:12:15+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳交警公布地铁 15 号线坪洲站施工交通安排：2026 年 10 月 10 日至 2027 年 9 月 22 日，海城路宝源路至新湖路段实行西往东单向通行。途经车辆和行人需按现场标志标线通行。",
+          "source": "深圳市公安局交通管理局 · 2026-10-08（北京时间）",
+          "url": "https://szjj.sz.gov.cn/ZWGK/TZGG/GGJG/content/post_13009352.html",
+          "published_at": "2026-10-08",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 在官方赛事规则例外清单中确认，BC.Game 的 asap、Magisk、mzinho、s1mple、Senzu 阵容归属亚洲赛区，并具备获得新加坡 Major 邀请的资格。这是昨日区域转换规则收紧后的正式例外，资格获准不等于已经取得赛事席位。",
+          "source": "Valve 官方规则提交 · 2026-10-07 17:30:36 UTC",
+          "url": "https://github.com/ValveSoftware/counter-strike_rules_and_regs/commit/621b7d91b0a236044aed62a357fddc863dfaea49",
+          "published_at": "2026-10-07T17:30:36Z"
+        }
+      ]
+    }
+  ]
+}

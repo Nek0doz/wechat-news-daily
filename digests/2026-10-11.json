@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-12T00:22:45+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "特朗普称俄乌已同意立即停止攻击彼此的能源设施，但未公布细节。泽连斯基表示欢迎这一消息，同时称俄方仍在袭击基辅和哈尔科夫的能源设施；俄方未立即确认，停火落实情况尚不明确。",
+          "source": "AP｜2026-10-11 08:33 UTC",
+          "url": "https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68",
+          "published_at": "2026-10-11T08:33:12+00:00"
+        },
+        {
+          "summary": "沙特主导的联军称，利雅得哈立德国王国际机场客运航站楼10月11日再次遭弹体击中，当局报告有人受伤；胡塞武装声称负责。机场在前一天的致命袭击后已关闭。",
+          "source": "AP｜2026-10-11 07:20 UTC",
+          "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb",
+          "published_at": "2026-10-11T07:20:26+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "Isaias 飓风灾后统计显示，佛罗里达州和阿拉巴马州至少4人死亡，死因涉及倒树、一氧化碳中毒和交通事故。风暴以二级飓风强度登陆佛州后减弱，清理和损失评估工作已展开。",
+          "source": "WUSF / FPREN｜2026-10-11 06:10 EDT",
+          "url": "https://www.wusf.org/weather/2026-10-11/hurricane-isaias-by-the-numbers",
+          "published_at": "2026-10-11T06:10:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [],
+      "note": "本轮检索未找到可同时核实原文、发布时间及新进展的全州性重要更新；不以旧闻填充。Centre County 的教育动态归入下一板块。"
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Bellefonte 学区与代表约230名教职员工的工会达成四年期暂定协议，工会已撤回原定10月12日开始的罢工通知，周一将照常上课。协议细节尚未公布，仍待双方正式表决批准。",
+          "source": "WPSU｜2026-10-11 11:20 EDT",
+          "url": "https://radio.wpsu.org/2026-10-11/teacher-strike-averted-at-bellefonte-area-school-district-as-both-sides-reach-tentative-agreement",
+          "published_at": "2026-10-11T11:20:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "成都至拉萨的固定班期货运列车10月11日首发，首列载有超过500吨进藏物资。铁路方面介绍，该班列将按固定时间、线路和班期运营，全程约68小时。",
+          "source": "新华社｜2026-10-11 15:40 北京时间",
+          "url": "https://www3.xinhuanet.com/20261011/879d1810d8ee45e6b2e394b731590915/c.html",
+          "published_at": "2026-10-11T15:40:44+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "新皇岗口岸于北京时间10月12日6时30分正式开通，原临时旅检大楼及落马洲管制站的旅检服务同步停止。新口岸实行“合作查验、一次放行”，旅客可在同一座联检大楼办理深港两地手续。",
+          "source": "香港01｜2026-10-12 06:20发布、07:44更新（香港时间）",
+          "url": "https://global.hk01.com/社会新闻/60398477/新皇岗口岸启用-启德新巴士线-市民搭头班车-望体验新皇岗口岸",
+          "published_at": "2026-10-12T06:20:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Vitality 在 ESL Pro League 第24赛季总决赛以3比0击败 MOUZ 夺冠，继9月 StarSeries Fall 后连续拿下两项赛事冠军。ZywOo 在决赛打出1.65的 Rating，成为取胜关键。",
+          "source": "HLTV｜2026-10-11 20:18 CEST",
+          "url": "https://www.hltv.org/news/45700/zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-mouz",
+          "published_at": "2026-10-11T20:18:00+02:00"
+        }
+      ]
+    }
+  ]
+}

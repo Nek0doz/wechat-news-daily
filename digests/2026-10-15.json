@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T18:04:45+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "乌克兰15日恢复袭击俄罗斯炼油设施，俄国防部和梁赞州州长称当地一座炼油厂遭无人机袭击起火。泽连斯基表示，因俄方继续攻击乌克兰能源设施，乌方不再遵守能源目标停火安排；俄方则称乌方从未停止袭击，双方对先前停火执行情况的说法尚无法独立核实。",
+          "source": "Associated Press｜2026-10-15 09:06 UTC",
+          "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+          "published_at": "2026-10-15T09:06:02+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国劳工统计局公布，9月最终需求生产者价格指数（PPI）经季节调整后环比上涨1.3%，为2022年3月以来最大单月涨幅，同比上涨6.3%。剔除食品、能源和贸易服务后的指数环比上涨0.5%、同比上涨5.0%。",
+          "source": "美国劳工统计局 BLS｜2026-10-15 08:30 EDT",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+          "published_at": "2026-10-15T08:30:00-04:00"
+        },
+        {
+          "summary": "美国劳工部公布，截至10月10日一周，经季节调整的首次申请失业救济人数为19.9万，比修正后的前一周增加1000人，四周均值为19.85万。截至10月3日一周，持续领取失业救济人数减少4000至171万。",
+          "source": "美国劳工部 DOL｜2026-10-15 08:30 EDT",
+          "url": "https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261599.pdf",
+          "published_at": "2026-10-15T08:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州总检察长办公室起诉礼来、诺和诺德、赛诺菲及多家药品福利管理公司，指控它们共同人为抬高胰岛素价格。州方寻求禁令、价格调整及向受影响居民返还损失；相关指控尚待法院审理认定。",
+          "source": "Pennsylvania Capital-Star｜2026-10-15 04:30 EDT",
+          "url": "https://penncapital-star.com/health-care/pennsylvanias-attorney-general-accuses-insulin-makers-pbms-of-insulin-pricing-scheme/",
+          "published_at": "2026-10-15T04:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Penn State 决定不续签已到期的 Flock Safety 一年合同，并将拆除 University Park 校区的自动车牌识别摄像头。校方称决定基于成本、投资回报与实际用途评估，仍会研究更具成本效益的替代工具，目前尚未决定采用替代系统。",
+          "source": "WATM ABC23｜2026-10-15 07:25 EDT",
+          "url": "https://www.abc23.com/newspost/flock-cameras-will-be-removed-from-penn-state-campus/",
+          "published_at": "2026-10-15T07:25:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "工信部、中央网信办和市场监管总局成立联合调查组，核查网络反映的“尊界V800汽车刹车踏板支架断裂问题”。目前公布的是启动联合核查，尚未发布调查结论。",
+          "source": "新华社｜2026-10-15 21:58:12 北京时间",
+          "url": "https://www.news.cn/fortune/20261015/7e254c9717864f1fbda8d028d7b65794/c.html",
+          "published_at": "2026-10-15T21:58:12+08:00"
+        },
+        {
+          "summary": "连接辽宁丹东与朝鲜新义州的新鸭绿江大桥15日正式开通，双方共同举行通车仪式。这座双向四车道公路桥于2014年完工，通车前主要依靠只能单向通行、承载20吨以下货车的中朝友谊桥。",
+          "source": "新华社｜2026-10-15 13:04:14 北京时间",
+          "url": "https://www.news.cn/politics/20261015/ea7697a0de024df3be557bab4a6939fd/c.html",
+          "published_at": "2026-10-15T13:04:14+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳公布APEC会议交通保障措施，会议期间将分区域、时段和路段实施临时管控，地铁、公交票价五折，并新增50条以上公交地铁接驳专线。11月16日至20日倡导企业灵活安排居家办公、休假或错峰上班，具体交通管控将随会议日程分批发布。",
+          "source": "新华社｜2026-10-15 19:19:02 北京时间",
+          "url": "https://www.news.cn/20261015/cfd2a59b4c99407eb310d0bb1e215688/c.html",
+          "published_at": "2026-10-15T19:19:02+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 新补丁改进 Demo／回放查看器，加入下载进度条和拖动式镜头操作，暂停回放时也能使用自由或跟随镜头。补丁还调整AUG站姿、蹲姿换弹动画以匹配此前缩短的换弹时间，并改善Vulkan渲染器稳定性。",
+          "source": "Pley.gg｜2026-10-15（仅标日期，丹麦）",
+          "url": "https://pley.gg/cs2/valve-cs2-update-improves-demo-viewer-and-aug-reload-animations/",
+          "published_at": "2026-10-15",
+          "published_timezone": "+02:00"
+        }
+      ]
+    }
+  ]
+}

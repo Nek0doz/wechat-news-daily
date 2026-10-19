@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T13:11:11+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "泽连斯基称，俄军19日再次以弹道导弹和喷气式无人机袭击乌克兰能源设施，乌方未获伙伴国家预警。美国总统特朗普及国务卿鲁比奥则表示，美国没有停止向乌方提供情报。",
+          "source": "AP｜2026-10-19 07:28 UTC",
+          "url": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-b041f78e5d037a0f3377b7108eac1dc7",
+          "published_at": "2026-10-19T07:28:04+00:00"
+        },
+        {
+          "summary": "法国周末生活成本抗议发生暴力事件后，马克龙拒绝内政部长努涅斯辞职，并要求查明警方预判及情报工作失误。总理勒科尔尼呼吁部分地方实行范围有限的宵禁。",
+          "source": "DW｜2026-10-19（德国当地日期）",
+          "url": "https://amp.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-ministers-resignation/a-79695496",
+          "published_at": "2026-10-19",
+          "published_timezone": "+02:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "华盛顿警方称，国民警卫队员18日晚在东南区试图制止街头斗殴时发生枪击，一名队员与一名嫌疑人受伤，均无生命危险；嫌疑人已被逮捕。",
+          "source": "AP｜2026-10-19 11:31 UTC",
+          "url": "https://apnews.com/article/national-guard-shooting-washington-16a5059ef1c84487b40d13376928e263",
+          "published_at": "2026-10-19T11:31:16+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "Axios：截至10月12日，宾州民主党登记选民约387万，共和党约363万；登记数并非投票结果。",
+          "source": "Axios Philadelphia｜2026-10-19 10:05 UTC",
+          "url": "https://www.axios.com/local/philadelphia/2026/10/19/democrats-republicans-independents-voters-by-the-numbers-pennsylvania",
+          "published_at": "2026-10-19T10:05:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "本次检索未找到近24小时内可核实的重要当地新进展；较早新闻的转载和既有活动预告未重复收录。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家统计局初步核算，前三季度GDP同比增长4.6%；第三季度增长4.5%，较第二季度的4.3%回升，环比增长1.2%。",
+          "source": "国家统计局｜2026-10-19 10:00 北京时间",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965618.html",
+          "published_at": "2026-10-19T10:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳市公共交通管理局19日公布2026年9月公交线路一览表，市民可在通告附件中查阅全市公交线路基本信息。",
+          "source": "深圳市交通运输局｜2026-10-19 09:37 北京时间",
+          "url": "https://jtys.sz.gov.cn/zwgk/jtzx/tzgg/content/post_13027026.html",
+          "published_at": "2026-10-19T09:37:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Aurora以2比1击败Falcons，获得Thunderpick世界锦标赛季军，并在Valve区域排名（VRS）中反超对手。HLTV称，这场胜利进一步巩固了Aurora争取Major第三阶段直邀的形势。",
+          "source": "HLTV｜2026-10-18 15:27 UTC",
+          "url": "https://www.hltv.org/news/45750/aurora-pass-falcons-in-the-vrs-after-third-place-decider-victory-at-twc",
+          "published_at": "2026-10-18T15:27:00.000Z"
+        }
+      ]
+    }
+  ]
+}

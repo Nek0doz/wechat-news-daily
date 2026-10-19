@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-19T00:00:37+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "埃及国防委员会宣布，将向沙特提供力所能及的支持，应对也门胡塞武装袭击；具体军事援助或部署安排尚未公布。",
+          "source": "AP｜2026-10-18 18:16:33 UTC",
+          "url": "https://apnews.com/article/saudi-arabia-yemen-egypt-houthis-f7d499cb13525df2bc7eb318e0fc1404",
+          "published_at": "2026-10-18T18:16:33+00:00"
+        },
+        {
+          "summary": "乌克兰袭击俄罗斯圣彼得堡石油设施并引发火灾，当地州长称1人死亡、5人受伤。泽连斯基则称俄军夜袭乌方4个州的能源设施，造成数万户家庭断电。",
+          "source": "AP｜2026-10-18 09:49:17 UTC",
+          "url": "https://apnews.com/article/russia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d",
+          "published_at": "2026-10-18T09:49:17+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "副总统万斯在CBS播出的选民问答中，就伊朗战争、汽油价格和移民政策受到质询。他承认油价过高，并称美军驻地安排曾有失误、政府已作调整。",
+          "source": "AP｜2026-10-18 03:31:17 UTC",
+          "url": "https://apnews.com/article/vance-town-hall-iran-immigration-8059afd7e8363df5f4f6943aadf5357f",
+          "published_at": "2026-10-18T03:31:17+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州11月3日大选的选民登记及资料更新将于10月19日截止；网上办理截至当地时间当晚11:59，线下须在相关办公地点营业时间内完成。",
+          "source": "WITF｜2026-10-18 05:00 EDT",
+          "url": "https://www.witf.org/2026/10/18/monday-last-day-to-register-to-vote-before-midterms-can-sign-up-online/",
+          "published_at": "2026-10-18T05:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [],
+      "note": "本次检索未找到同时符合近24小时发布时间要求、且可核实的重要当地新进展；未用较早报道或仅更新转载时间的新闻补足条数。"
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "李强在杜尚别同塔吉克斯坦总理拉苏尔佐达会谈，提出深化贸易投资、清洁能源和人工智能等合作。双方会后见证签署基础设施建设、教育、反腐及标准化等领域文件。",
+          "source": "新华社｜2026-10-18 22:51:42 北京时间",
+          "url": "https://www.news.cn/politics/leaders/20261018/c0fd738f96574475b51a5265f802cd81/c.html",
+          "published_at": "2026-10-18T22:51:42+08:00"
+        },
+        {
+          "summary": "神舟二十三号航天员完成新一批水稻实验样品采集、存储，并播种收获的部分种子，推进在微重力条件下连续繁殖两代水稻的实验。样品后续将返回地面，研究空间环境对遗传稳定性的影响。",
+          "source": "央视网｜2026-10-18 19:23 北京时间",
+          "url": "https://tv.cctv.com/2026/10/18/VIDERB708P4Ib32okBxUll0U261018.shtml",
+          "published_at": "2026-10-18T19:23:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "据深圳海关统计，今年前三季度深圳对APEC经济体进出口3.23万亿元，同比增长40%，创历史同期新高，占全国同期相关进出口总值的13.4%；主要产品包括集成电路、电脑及其零部件。",
+          "source": "央视网（据深圳海关）｜2026-10-18 19:27 北京时间",
+          "url": "https://tv.cctv.com/2026/10/18/VIDE98EStlKIUv9k8SKTSDb0261018.shtml",
+          "published_at": "2026-10-18T19:27:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "FURIA在Thunderpick世界锦标赛决赛中从1:2落后逆转，以3:2击败BETBOOM，连续第二年夺冠并获得50万美元奖金；决胜图Cache以13:6收官。",
+          "source": "Dust2.com.br（葡萄牙语）｜2026-10-18 18:31 BRT",
+          "url": "https://www.dust2.com.br/noticias/79021/com-fallen-decisivo-furia-e-bicampea-da-thunderpick",
+          "published_at": "2026-10-18T18:31:00-03:00"
+        }
+      ]
+    }
+  ]
+}

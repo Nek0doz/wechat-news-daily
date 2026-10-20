@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T09:08:45-04:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "日本JAXA于20日从种子岛发射搭载火星卫星探测器MMX的H3火箭。JAXA确认，火箭按计划飞行，约1小时11分钟后探测器正常分离并进入预定轨道。",
+          "source": "JAXA｜2026-10-20（日本日期，UTC+09:00）",
+          "url": "https://www.jaxa.jp/press/2026/10/20261020-1_j.html",
+          "published_at": "2026-10-20",
+          "published_timezone": "+09:00"
+        },
+        {
+          "summary": "据阿尔伯塔省选举机构公布的非正式计票结果，在已统计的逾150万票中，约76%支持留在加拿大。此次公投针对是否启动分离进程，并非直接决定独立。",
+          "source": "Associated Press｜2026-10-20 04:13 UTC",
+          "url": "https://apnews.com/article/alberta-canada-referendum-independence-carney-ed0d58ef051859ce12052e75d2d6e8a0",
+          "published_at": "2026-10-20T04:13:07+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国司法部19日在加州起诉28名合法永久居民，指控涉及非公民投票、虚假登记或入籍申请虚假陈述等行为，案件尚属指控。加州总检察长邦塔表示，该州不存在广泛选民欺诈。",
+          "source": "Associated Press｜2026-10-19 14:46 UTC",
+          "url": "https://apnews.com/article/california-election-justice-department-60e3dd468f43e0e8a32e6bf69341f189",
+          "published_at": "2026-10-19T14:46:26+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州众议院以141票对62票通过校园手机限制法案，拟要求公私立学校实行全天在校期间禁用手机，并为学习及医疗需要保留例外。法案仍须由参议院处理，尚未成为法律。",
+          "source": "Pennsylvania Capital-Star｜2026-10-19 17:38 EDT",
+          "url": "https://penncapital-star.com/technology-information/pa-house-advances-bills-limiting-student-cellphone-use-and-flock-like-cameras/",
+          "published_at": "2026-10-19T17:38:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Centre County选举与选民登记办公室主任Melanie Bailey已离任，县委员批准由原登记协调员Latisha Stefanko暂代。县方19日未说明离任时间、原因及是否影响选务运作。",
+          "source": "StateCollege.com｜2026-10-19 18:13 EDT",
+          "url": "https://www.statecollege.com/articles/elections/centre-county-elections-office-sees-leadership-change-as-midterms-approach/",
+          "published_at": "2026-10-19T18:13:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家移民管理局20日公布，第三季度全国查验出入境人员1.92亿人次，同比增长7.9%。其中免签入境外国人899.2万人次，同比增长24.1%，占入境外国人的77.5%。",
+          "source": "国家移民管理局｜2026-10-20（北京时间日期）",
+          "url": "https://www.nia.gov.cn/n794014/n794021/c1820896/content.html",
+          "published_at": "2026-10-20",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "针对羊台山地铁站C1口附近公交站隔离柱过密的反映，龙华大浪街道回应称，已于10月16日拆除临近盲道的部分隔离柱。街道同时表示将加强巡查，整治非法拉客等影响通行的行为。",
+          "source": "深圳新闻网｜2026-10-20（北京时间日期）",
+          "url": "https://www.sznews.com/news/content/2026-10/20/content_32196177.htm",
+          "published_at": "2026-10-20",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "ESL公布11月2日至8日IEM北京站分组及首轮对阵：NAVI迎战Falcons、FURIA对阵FaZe，TYLOO首战MOUZ。16支队伍分为两个双败淘汰小组，各组第一直接进入半决赛。",
+          "source": "HLTV｜2026-10-20 11:29 UTC",
+          "url": "https://www.hltv.org/news/45759/iem-beijing-groups-and-opening-matchups-set",
+          "published_at": "2026-10-20T11:29:00+00:00"
+        }
+      ]
+    }
+  ]
+}

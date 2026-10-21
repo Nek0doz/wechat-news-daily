@@ -67,5 +67,46 @@ class DigestTests(unittest.TestCase):
         item['published_at'] = '2026-09-15'
         with self.assertRaises(ValueError): validate(data)
 
+    def test_weekly_window_capacity_and_daily_compatibility(self):
+        data = fixture()
+        data['period'] = 'weekly'
+        for index, block in enumerate(data['sections']):
+            template = block['items'][0]
+            block['items'] = [dict(template, url=f'https://example.org/{index}/{j}',
+                                   published_at='2026-09-09T09:00:00-04:00') for j in range(8)]
+        data['sections'][0]['items'][0]['summary'] = '每日新闻、Word 日报和生成前 24 小时是引用文字。'
+        self.assertIn(data['sections'][0]['items'][0]['summary'], render(data))
+        self.assertEqual(validate(data)[1], 56)
+        self.assertIn('每周新闻', render(data))
+        self.assertIn('生成前 7 天', render(data))
+        payload = build_payload(data, 'https://example.github.io/news/', 'recipient', 'template')
+        self.assertIn('Word 周报', payload['data']['remark']['value'])
+        self.assertEqual(payload['data']['summary']['value'], '7 个新闻板块，共 56 条精选')
+        data['sections'][0]['items'].append(dict(data['sections'][0]['items'][0], url='https://example.org/overflow'))
+        with self.assertRaises(ValueError): validate(data)
+        data['sections'][0]['items'].pop()
+        for stamp in ['2026-09-09T08:59:59-04:00', '2026-09-16T09:00:01-04:00']:
+            data['sections'][0]['items'][0]['published_at'] = stamp
+            with self.assertRaises(ValueError): validate(data)
+        data = fixture()
+        data['sections'][0]['items'][0]['published_at'] = '2026-09-14T09:00:00-04:00'
+        with self.assertRaises(ValueError): validate(data)
+        data = fixture()
+        data['sections'][0]['items'] = [dict(data['sections'][0]['items'][0], url=f'https://example.org/daily/{j}') for j in range(4)]
+        with self.assertRaises(ValueError): validate(data)
+        data = fixture(); data['period'] = 'monthly'
+        with self.assertRaises(ValueError): validate(data)
+
+    def test_weekly_date_only_window_preserves_precision(self):
+        data = fixture(); data['period'] = 'weekly'
+        item = data['sections'][0]['items'][0]
+        item['published_timezone'] = '+08:00'
+        for stamp in ['2026-09-10', '2026-09-16']:
+            item['published_at'] = stamp
+            validate(data)
+        for stamp in ['2026-09-09', '2026-09-17']:
+            item['published_at'] = stamp
+            with self.assertRaises(ValueError): validate(data)
+
 
 if __name__ == '__main__': unittest.main()

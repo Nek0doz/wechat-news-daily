@@ -9,12 +9,19 @@ from urllib.parse import urlsplit
 LEGACY_SECTIONS = ['世界新闻', '中国新闻', '深圳新闻', 'CS2 游戏资讯']
 SECTIONS = ['世界新闻', '美国新闻', '宾夕法尼亚州新闻', 'State College 新闻', '中国新闻', '深圳新闻', 'CS2 游戏资讯']
 
+def limits(data):
+    period = data.get('period', 'daily')
+    if period not in ('daily', 'weekly'):
+        raise ValueError('period must be daily or weekly')
+    return (168, 8) if period == 'weekly' else (24, 3)
+
 
 def validate(data):
     day = date.fromisoformat(data['date'])
     generated = datetime.fromisoformat(data['generated_at'])
     if generated.tzinfo is None:
         raise ValueError('generated_at must include timezone')
+    hours, maximum_items = limits(data)
     names = [s['name'] for s in data['sections']]
     legacy_archive = day <= date(2026, 9, 16) and names == LEGACY_SECTIONS
     if names != SECTIONS and not legacy_archive:
@@ -23,8 +30,8 @@ def validate(data):
     total = 0
     for section in data['sections']:
         items = section['items']
-        if not isinstance(items, list) or len(items) > 3:
-            raise ValueError('At most three items per section')
+        if not isinstance(items, list) or len(items) > maximum_items:
+            raise ValueError(f'At most {maximum_items} items per section')
         if not items and not section.get('note'):
             raise ValueError('Empty sections need an explanatory note')
         for item in items:
@@ -45,12 +52,17 @@ def validate(data):
                 if not offset:
                     raise ValueError('Date-only sources need a source timezone offset')
                 midnight = datetime.fromisoformat(stamp + 'T00:00:00' + offset)
-                if midnight.tzinfo is None or midnight.date() != generated.astimezone(midnight.tzinfo).date():
-                    raise ValueError('Date-only sources must be from the current source-local day')
+                if midnight.tzinfo is None:
+                    raise ValueError('Date-only sources need a source timezone offset')
+                local_today = generated.astimezone(midnight.tzinfo).date()
+                # Exclude the ambiguous boundary date rather than invent a clock time.
+                earliest = (generated - timedelta(hours=hours)).astimezone(midnight.tzinfo).date() + timedelta(days=1)
+                if not earliest <= midnight.date() <= local_today:
+                    raise ValueError('Date-only source is outside the source-local publication window')
             else:
                 published = datetime.fromisoformat(stamp)
-                if published.tzinfo is None or not generated - timedelta(hours=24) <= published <= generated:
-                    raise ValueError('Source publication must be within the preceding 24 hours')
+                if published.tzinfo is None or not generated - timedelta(hours=hours) <= published <= generated:
+                    raise ValueError(f'Source publication must be within the preceding {hours} hours')
             total += 1
     if not total:
         raise ValueError('No verified articles: do not publish an empty digest')
@@ -59,6 +71,11 @@ def validate(data):
 
 def render(data):
     day, count = validate(data)
+    weekly = data.get('period') == 'weekly'
+    title = '每周新闻' if weekly else '每日新闻'
+    eyebrow = 'WEEKLY NEWS BRIEF' if weekly else 'DAILY NEWS BRIEF'
+    edition = '周报' if weekly else '日报'
+    window = '7 天' if weekly else '24 小时'
     esc = html.escape
     sections = []
     for section in data['sections']:
@@ -68,10 +85,10 @@ def render(data):
             + ' · 阅读原文 ↗</a></article>' for i in section['items'])
         note = '<p class="note">' + esc(section['note']) + '</p>' if section.get('note') else ''
         sections.append('<section><h2>' + esc(section['name']) + '</h2>' + articles + note + '</section>')
-    return ('''<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+    page = ('''<!doctype html><html lang="zh-CN"><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<title>每日新闻 · ''' + day.isoformat() + '''</title>
+<title>''' + title + ' · ' + day.isoformat() + '''</title>
 <style>
 :root{color-scheme:light}*{box-sizing:border-box}body{margin:0;background:#f6f4ef;color:#182a32;font-family:system-ui,"Microsoft YaHei",sans-serif;line-height:1.8}
 main{max-width:760px;margin:auto;padding:42px 22px}header{border-bottom:2px solid #182a32;padding-bottom:24px}
@@ -80,10 +97,11 @@ section{padding-top:24px}h2{font-size:20px;margin:0 0 12px}article{background:wh
 article p{margin:0 0 10px;font-size:16px}a{color:#006d70;text-decoration:none;font-size:13px}a:hover{text-decoration:underline}footer{margin-top:32px;padding-top:16px;border-top:1px solid #ddd}
 .download{display:inline-block;background:#006d70;color:white;padding:9px 16px;border-radius:6px;font-size:15px}
 @media(max-width:480px){main{padding:26px 16px}h1{font-size:30px}article{padding:16px}}
-</style><main><header><div class="eyebrow">DAILY NEWS BRIEF</div><h1>每日新闻</h1><p>'''
+</style><main><header><div class="eyebrow">''' + eyebrow + '''</div><h1>''' + title + '''</h1><p>'''
     + day.isoformat() + ' · 纽约日期 · ' + str(count) + ' 条精选</p><a class="download" href="'
-    + day.isoformat() + '.docx" download>下载 Word 日报</a><p>可保存、编辑或转发。若微信内无法下载，请用浏览器打开此页。</p></header>' + ''.join(sections) + '''
-<footer>概要由 AI 根据所列来源整理；详情以原文为准。<br>覆盖生成前 24 小时，未更新的板块不以旧闻填充。</footer></main></html>''')
+    + day.isoformat() + '.docx" download>下载 Word ' + edition + '</a><p>可保存、编辑或转发。若微信内无法下载，请用浏览器打开此页。</p></header>' + ''.join(sections) + '''
+<footer>概要由 AI 根据所列来源整理；详情以原文为准。<br>覆盖生成前 ''' + window + '''，未更新的板块不以旧闻填充。</footer></main></html>''')
+    return page
 
 
 def main():

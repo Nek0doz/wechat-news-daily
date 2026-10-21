@@ -24,6 +24,7 @@ def request_json(url, payload=None):
 
 def build_payload(data, page_base, openid, template_id):
     day, total = validate(data)
+    edition = '周报' if data.get('period') == 'weekly' else '日报'
     return {
         'touser': openid,
         'template_id': template_id,
@@ -31,7 +32,7 @@ def build_payload(data, page_base, openid, template_id):
         'data': {
             'date': {'value': day.isoformat()},
             'summary': {'value': f'{len(data["sections"])} 个新闻板块，共 {total} 条精选'},
-            'remark': {'value': '点击直接下载 Word 日报；若微信拦截，请在浏览器中打开'},
+            'remark': {'value': f'点击直接下载 Word {edition}；若微信拦截，请在浏览器中打开'},
         },
     }
 

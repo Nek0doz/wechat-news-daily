@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T16:26:16+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "联合国环境规划署最新报告估计，即使各国兑现现有减排承诺，到2100年全球仍可能较工业化前升温约2.6℃；按当前政策轨迹则约为2.8℃。这些是情景预测，报告呼吁加快削减温室气体排放。",
+          "source": "Associated Press · 2026-10-21 05:07 UTC",
+          "url": "https://apnews.com/article/0eff0561e0af1f3d7421a96d9db02ba9",
+          "published_at": "2026-10-21T05:07:45+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "特朗普与万斯宣布设立2500万美元的联邦欺诈举报奖励计划，由司法部管理。白宫称符合条件者最高可获3万美元；特朗普在发布会上另称，奖励按举报帮助查获的欺诈金额的1%计算。",
+          "source": "Associated Press · 更新于2026-10-20 16:14 EDT",
+          "url": "https://apnews.com/article/trump-fraud-whistleblower-vance-cc7c155c06cbab74d423911c36f5ac78",
+          "published_at": "2026-10-20T16:14:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州众议院以176票对27票通过电动滑板车合法化及监管法案，拟规定骑手年满16岁、限速25英里/小时，未满18岁须戴头盔。法案已送交参议院，尚未生效。",
+          "source": "Pennsylvania Capital-Star · 2026-10-20 18:12 EDT",
+          "url": "https://penncapital-star.com/transportation-infrastructure/bill-to-legalize-regulate-and-restrict-who-can-ride-e-scooters-passes-state-house/",
+          "published_at": "2026-10-20T18:12:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Centre Film Festival于20日公布第八届影展片单，将于11月2日至8日在State College及Philipsburg举行。放映地点包括State Theatre、Rowland Theatre、UEC影院及部分Penn State和社区场地。",
+          "source": "StateCollege.com · 2026-10-20 19:41 EDT",
+          "url": "https://www.statecollege.com/articles/community/centre-film-festival-unveils-lineup-for-8th-annual-event/",
+          "published_at": "2026-10-20T19:41:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "中共中央办公厅、国务院办公厅21日发布《关于推动科技创新和产业创新深度融合的意见》，提出构建企业主导、多主体协同的产学研创新体系。文件围绕创新链与产业链衔接、创新资源配置等六个方面作出部署。",
+          "source": "新华社 · 2026-10-21 18:01 北京时间",
+          "url": "https://www3.xinhuanet.com/politics/20261021/cd1341e730794635948d45a41f3ab409/c.html",
+          "published_at": "2026-10-21T18:01:53+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳发布安居华越龙苑人才住房配售通告，本批次共433套，均为约84至90平方米的三房。符合通告条件的申请家庭可于北京时间10月21日14时至11月8日22时线上认购。",
+          "source": "深圳市住房和建设局 · 2026-10-21 10:24 北京时间",
+          "url": "https://zjj.sz.gov.cn/xxgk/tzgg/content/post_13032427.html",
+          "published_at": "2026-10-21T10:24:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "1win Private Club第二赛季第二比赛日，PARIVISION以2比1逆转fnatic，BIG以2比0击败The MongolZ。Liquid以0比2负于magic后出局，本届赛事未赢下一张地图。",
+          "source": "HLTV · 2026-10-20 20:48 UTC",
+          "url": "https://www.hltv.org/news/45763/big-get-a-lifeline-alliances-major-odds-crater-and-liquid-exit-after-day-two-of-1win-private-club-s2",
+          "published_at": "2026-10-20T20:48:00+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-24",
+  "period": "weekly",
+  "generated_at": "2026-10-24T13:10:56Z",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "美国国务院缩减驻约旦、黎巴嫩、卡塔尔和阿联酋使馆人员，使馆仍保持开放，此轮并非强制撤离。美联社取得的美国情报备忘录称伊朗加大了针对美国人员的行动；这一威胁判断来自美方情报部门。",
+          "source": "Associated Press · 2026-10-24 01:42 UTC",
+          "url": "https://apnews.com/article/9635852ea973064907ed0b7c0fca4799",
+          "published_at": "2026-10-24T01:42:39+00:00"
+        },
+        {
+          "summary": "梅拉尼娅·特朗普办公室宣布，俄乌同意自10月29日起在俄方控制的奥莱什基实行临时局部停火，让人道援助进入并准备平民撤离。俄乌双方均就相关安排作出回应，但停火持续多久尚未明确。",
+          "source": "ABC News · 2026-10-23 14:07 EDT",
+          "url": "https://abcnews.com/amp/Politics/lady-melania-trump-brokered-temporary-localized-ceasefire-ukraine/story?id=137512833",
+          "published_at": "2026-10-23T14:07:00-04:00"
+        },
+        {
+          "summary": "法国为10月24日的新一轮生活成本抗议部署约7万名执法人员，卢浮宫及巴黎多家主要博物馆当天关闭。此前一周的示威伴随严重暴力与破坏，当局此次加强戒备以防再度发生。",
+          "source": "Associated Press · 2026-10-23 10:05 UTC",
+          "url": "https://apnews.com/article/0208e62321f811e3003460f71b7fcc89",
+          "published_at": "2026-10-23T10:05:46+00:00"
+        },
+        {
+          "summary": "世卫组织20日通报尼日利亚确诊一例输入性本迪布焦型埃博拉病例，患者近期曾赴乌干达，感染来源仍在调查。患者已隔离治疗，尼日利亚卫生部门当时已确认并监测44名接触者，世卫组织呼吁周边国家加强监测与准备。",
+          "source": "WHO Africa · 2026-10-20（仅日期，UTC+01）",
+          "url": "https://www.afro.who.int/countries/nigeria/news/nigeria-confirms-imported-case-ebola-bundibugyo-virus-disease",
+          "published_at": "2026-10-20",
+          "published_timezone": "+01:00"
+        },
+        {
+          "summary": "联合国环境规划署发布《2026年排放差距报告》，估计当前政策下本世纪升温可能达2.8℃，兑现现有国家减排承诺则约2.6℃。报告的低超调情景要求2035年全球排放较2025年减少45%并扩大碳移除，这是条件性情景预测。",
+          "source": "UNEP · 2026-10-21（仅日期，UTC+03）",
+          "url": "https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-15degc",
+          "published_at": "2026-10-21",
+          "published_timezone": "+03:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国能源部将氦列为《2020年能源法》下的关键材料，理由包括其在半导体制造中的不可替代性和日益上升的供应风险。能源部同时指出，精炼能力不足和许可周期较长仍制约美国本土产量。",
+          "source": "U.S. Department of Energy · 2026-10-23（仅日期，EDT）",
+          "url": "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
+          "published_at": "2026-10-23",
+          "published_timezone": "-04:00"
+        },
+        {
+          "summary": "特朗普签署女性健康行政令，要求90天内在美国国立卫生研究院适当机构内设立女性健康部门，并组建白宫女性健康工作组。命令同时撤销2023年、2024年的相关行政措施，新安排须依法并在拨款可用范围内实施。",
+          "source": "The White House · 2026-10-19（仅日期，EDT）",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+          "published_at": "2026-10-19",
+          "published_timezone": "-04:00"
+        },
+        {
+          "summary": "特朗普和万斯宣布设立总额2500万美元的联邦欺诈举报奖励计划，由司法部管理。白宫称促成定罪或重大执法行动的线索可获最高3万美元，特朗普现场另提到按查明金额的1%奖励，两种表述存在差异。",
+          "source": "Associated Press · 2026-10-20 14:22 UTC",
+          "url": "https://apnews.com/article/cc7c155c06cbab74d423911c36f5ac78",
+          "published_at": "2026-10-20T14:22:54+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州本周签署的新法律包括限制租房申请费和规范AI生成广告：申请费须与实际行政成本合理相关，不能被当作一般收入来源；使用AI生成或修改内容的商业广告须作清晰披露。两项措施分别针对租客额外负担和误导性宣传。",
+          "source": "City & State PA · 2026-10-23 16:41 EDT",
+          "url": "https://www.cityandstatepa.com/policy/2026/10/7-bills-signed-law-gov-josh-shapiro-october/416799/",
+          "published_at": "2026-10-23T16:41:00-04:00"
+        },
+        {
+          "summary": "阿勒格尼县行政长官22日签署带薪育儿假法案，此前县议会以11比4通过。新规要求15名及以上雇员的企业提供最多12周假期，将在签署一年后生效。",
+          "source": "Allegheny County · 2026-10-22（仅日期，EDT）",
+          "url": "https://www.alleghenycounty.us/News-Articles/Allegheny-County-Press-Releases/October-2026/10-22-26-Innamorato-Signs-Paid-Parental-Leave-Bill",
+          "published_at": "2026-10-22",
+          "published_timezone": "-04:00"
+        },
+        {
+          "summary": "宾州众议院以176比27通过电动滑板车管理法案，拟允许合法使用及部分城市共享项目，同时设置最低16岁、未满18岁佩戴头盔等要求。法案送交参议院审议，尚未成为现行法律。",
+          "source": "Pennsylvania Capital-Star · 2026-10-20 18:12 EDT",
+          "url": "https://penncapital-star.com/transportation-infrastructure/bill-to-legalize-regulate-and-restrict-who-can-ride-e-scooters-passes-state-house/",
+          "published_at": "2026-10-20T18:12:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Centre County选举与选民登记办公室在中期选举前更换负责人，原主任Melanie Bailey离任，由原选民登记协调员Latisha Stefanko担任临时主任。县方未向报道记者说明离任原因及对选举运营是否有影响。",
+          "source": "StateCollege.com · 2026-10-19 18:13 EDT",
+          "url": "https://www.statecollege.com/articles/elections/centre-county-elections-office-sees-leadership-change-as-midterms-approach/",
+          "published_at": "2026-10-19T18:13:00-04:00"
+        },
+        {
+          "summary": "Penn State公布10月26日至30日媒体素养周活动，包括面向社区的讨论和工作坊。10月27日中午Schlow图书馆将举办有关AI与错误信息的公众活动，居民可按原文查看参与安排。",
+          "source": "StateCollege.com · 2026-10-23 15:12 EDT",
+          "url": "https://www.statecollege.com/articles/psu-news/panels-community-workshops-planned-at-penn-state-for-media-literacy-week/",
+          "published_at": "2026-10-23T15:12:00-04:00"
+        },
+        {
+          "summary": "警方本周就9月11日State College市中心斑马线撞人事件提出肇事后离开等指控，称驾驶人撞到一名推婴儿车的行人后离开。行人曾接受治疗、儿童未受伤；案件定于11月4日初步聆讯，指控尚待司法审理。",
+          "source": "StateCollege.com · 2026-10-22 16:41 EDT",
+          "url": "https://www.statecollege.com/articles/local-news/police-crime/driver-accused-of-striking-pedestrian-in-downtown-state-college/",
+          "published_at": "2026-10-22T16:41:00-04:00"
+        },
+        {
+          "summary": "第八届Centre Film Festival公布片单，将于11月2日至8日在State College和Philipsburg举行。放映地点包括State Theatre、Rowland Theatre和UEC Theatres，涵盖长短片、纪录片及VR体验。",
+          "source": "StateCollege.com · 2026-10-20 19:41 EDT",
+          "url": "https://www.statecollege.com/articles/community/centre-film-festival-unveils-lineup-for-8th-annual-event/",
+          "published_at": "2026-10-20T19:41:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "西藏那曲巴青县22日发生7.0级地震；新华社23日晚援引前线应急指挥部称，已造成16人遇难、76人受伤，339户房屋倒塌或受损。截至23日18时，经过三轮逐户排查，尚未发现失联人员。",
+          "source": "新华社 · 2026-10-23 19:25:21 北京时间",
+          "url": "https://www.news.cn/local/20261023/8073f2bd46da4b63b00f027103ed2683/c.html",
+          "published_at": "2026-10-23T19:25:21+08:00"
+        },
+        {
+          "summary": "国家统计局公布，前三季度国内生产总值同比增长4.6%，第三季度同比增长4.5%、环比增长1.2%。这是本周发布的初步核算数据，反映经济总体增长及季度变化。",
+          "source": "国家统计局 · 2026-10-19 10:00 北京时间",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html",
+          "published_at": "2026-10-19T10:00:00+08:00"
+        },
+        {
+          "summary": "国务院办公厅发布适应人工智能发展、构建就业友好型发展方式的意见，提出增强AI创造岗位、赋能传统岗位和激发创业的作用，同时减缓就业替代影响。文件强调就业优先，推动技术进步与就业、民生改善相协调。",
+          "source": "中国政府网 · 2026-10-23（仅日期，北京时间）",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
+          "published_at": "2026-10-23",
+          "published_timezone": "+08:00"
+        },
+        {
+          "summary": "国家统计局发布2025年中国创新指数：以2015年为100，指数达到185.5，比上年增长6.4%。分领域看，创新产出指数增长8%，创新成效指数增长2.9%，显示不同环节增速存在差异。",
+          "source": "国家统计局 · 2026-10-23 09:30 北京时间",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261023_1965677.html",
+          "published_at": "2026-10-23T09:30:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "安居华越龙苑推出433套人才配售住房，均为约84—90平方米三房，按资格队列组织认购。符合条件的家庭可在北京时间11月8日22时前线上申请，户籍、社保、家庭人数等要求须以通告为准。",
+          "source": "深圳市住房和建设局 · 2026-10-21 10:24 北京时间",
+          "url": "https://zjj.sz.gov.cn/xxgk/tzgg/content/post_13032427.html",
+          "published_at": "2026-10-21T10:24:00+08:00"
+        },
+        {
+          "summary": "受地铁27号线油福站施工影响，工业路的龙华大道至宏发路段将于2026年11月8日至2027年11月7日调整为西往东单向通行。沿线出行需提前安排绕行并服从现场交通指引。",
+          "source": "深圳市公安局 · 2026-10-22（仅日期，北京时间）",
+          "url": "https://ga.sz.gov.cn/ZWGK/QT/GSGG/content/post_13035731.html",
+          "published_at": "2026-10-22",
+          "published_timezone": "+08:00"
+        },
+        {
+          "summary": "因排水箱涵抢修，登良路南新路至天马综合楼出入口段于10月21日至28日封闭施工。途经车辆可按通告经南山大道、南新路、南园路、新园路等周边道路绕行。",
+          "source": "深圳市公安局 · 2026-10-20（仅日期，北京时间）",
+          "url": "https://ga.sz.gov.cn/ZWGK/QT/GSGG/content/post_13030563.html",
+          "published_at": "2026-10-20",
+          "published_timezone": "+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve本周的CS2更新主要面向地图脚本：新增资源预加载、人质交互接口，以及Console和GameRules顶层导出。更新还扩大雷达元素适用范围，修复脚本崩溃与返回类型问题，并改善调试日志。",
+          "source": "Valve / Steam · 2026-10-22（仅日期，PDT）",
+          "url": "https://store.steampowered.com/news/app/730/view/694275728822244199",
+          "published_at": "2026-10-22",
+          "published_timezone": "-07:00"
+        },
+        {
+          "summary": "FURIA在Thunderpick World Championship决赛以3比2击败BETBOOM，连续两届夺冠。这是队伍2026年的首个冠军，赛事在马耳他举行。",
+          "source": "HLTV · 2026-10-18 23:34 CEST",
+          "url": "https://www.hltv.org/news/45752/furia-go-back-to-back-at-thunderpick-world-championship-to-secure-first-title-of-2026",
+          "published_at": "2026-10-18T23:34:00+02:00"
+        },
+        {
+          "summary": "The MongolZ在1win Private Club第二季决赛以3比0战胜PARIVISION，赢得自2025年电竞世界杯以来的首个冠军。此次也是nin9加入新阵容后的首秀赛事。",
+          "source": "HLTV · 2026-10-22 20:15 CEST",
+          "url": "https://www.hltv.org/news/45777/the-mongolz-outclass-parivision-to-lift-1win-private-club-season-2-trophy-on-debut-with-nin9",
+          "published_at": "2026-10-22T20:15:00+02:00"
+        },
+        {
+          "summary": "GamerLegion宣布签下shalfey担任指挥，接替此前进入替补席的Snax。新阵容计划于10月27日RLG Tesla Cup对阵Envy时亮相。",
+          "source": "HLTV · 2026-10-21 17:27 CEST",
+          "url": "https://www.hltv.org/news/45770/gamerlegion-sign-shalfey",
+          "published_at": "2026-10-21T17:27:00+02:00"
+        },
+        {
+          "summary": "1win宣布与PARIVISION达成协议，正式签下BELCHONOKK。此前的租借已结束，此次将其在队内的身份转为永久转会。",
+          "source": "HLTV · 2026-10-23 14:41 CEST",
+          "url": "https://www.hltv.org/news/45781/belchonokk-joins-1win-permanently",
+          "published_at": "2026-10-23T14:41:00+02:00"
+        }
+      ]
+    }
+  ]
+}

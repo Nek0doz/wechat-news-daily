@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-31",
+  "period": "weekly",
+  "generated_at": "2026-10-31T13:08:54+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "巴西最高选举法院宣布，卢拉在25日总统选举第二轮以51.79%的有效票获胜，弗拉维奥·博索纳罗获48.21%。",
+          "source": "巴西最高选举法院 TSE｜2026-10-26 00:18:00-03:00",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+          "published_at": "2026-10-26T00:18:00-03:00"
+        },
+        {
+          "summary": "西班牙托莱多省28日两列高速列车相撞，已造成至少69人死亡。交通部长指向调度失误，工会则质疑人员配置和安全系统，事故原因仍在调查。",
+          "source": "AP｜2026-10-30 05:03:20 UTC",
+          "url": "https://apnews.com/article/669ef8c0c12c8c9b720e721e7532ccbb",
+          "published_at": "2026-10-30T05:03:20Z"
+        },
+        {
+          "summary": "据与会外交官向美联社透露，亚特兰大 G20 外长会因俄乌战争等分歧，预计不会发表联合公报，将改由主席国发布总结声明。",
+          "source": "AP｜2026-10-31 04:08:28 UTC",
+          "url": "https://apnews.com/article/21c65a8bb02a3a0f0c89f0ce6d56d5fd",
+          "published_at": "2026-10-31T04:08:28Z"
+        },
+        {
+          "summary": "联合国缅甸人权特别报告员 Kelley Currie 指责军方支持的政府蓄意袭击平民，并称武器采购正在助长冲突。她同时警告罗兴亚人等少数群体面临新的暴力风险。",
+          "source": "AP｜2026-10-30 16:50:39 UTC",
+          "url": "https://apnews.com/article/7d34142b4cb4b9afc187cac2b98b82af",
+          "published_at": "2026-10-30T16:50:39Z"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美联储以10票对2票决定将联邦基金利率目标区间维持在3.75%—4.00%，声明继续强调通胀偏高。两名反对委员主张加息25个基点。",
+          "source": "Federal Reserve｜2026-10-28 14:00:00-04:00",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "published_at": "2026-10-28T14:00:00-04:00"
+        },
+        {
+          "summary": "美国经济分析局初步估计，第三季度实际 GDP 按年率增长3.4%，高于第二季度的2.2%；未经年化的环比增幅为0.8%。投资、消费和政府支出增加，出口下降。",
+          "source": "BEA｜2026-10-29 08:30:00-04:00",
+          "url": "https://bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+          "published_at": "2026-10-29T08:30:00-04:00"
+        },
+        {
+          "summary": "美国9月 PCE 物价指数同比上涨3.6%，剔除食品和能源的核心指数同比上涨3.1%。当月名义消费支出环比增加0.5%，但扣除价格因素后几乎没有增长。",
+          "source": "BEA｜2026-10-29 08:30:00-04:00",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+          "published_at": "2026-10-29T08:30:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州卫生厅30日通报，2026年全州累计报告1,426例麻疹，涉及44个县，较28日增加28例。累计有268人住院、5例与麻疹相关的死亡。",
+          "source": "宾州卫生厅｜2026-10-30（UTC-04:00，仅日期）",
+          "url": "https://www.pa.gov/agencies/health/newsroom/pennsylvania-department-of-health-provides",
+          "published_at": "2026-10-30",
+          "published_timezone": "-04:00"
+        },
+        {
+          "summary": "宾州州警宣布将实施家庭暴力致命风险评估项目，在符合条件的出警中用标准化筛查识别高风险受害者，并立即转介当地援助机构。项目旨在扩大包括农村地区在内的安全规划和庇护服务衔接。",
+          "source": "Pennsylvania State Police｜2026-10-30（UTC-04:00，仅日期）",
+          "url": "https://www.pa.gov/agencies/psp/newsroom/state-police-adopts-lethality-assessment-program",
+          "published_at": "2026-10-30",
+          "published_timezone": "-04:00"
+        },
+        {
+          "summary": "美联社发布宾州11月3日选举指南，选举涉及州长、联邦众议院和州议会等职位，投票站当晚8点关闭。各县邮寄选票计票结果的公布节奏不同，早期结果仍可能变化。",
+          "source": "AP｜2026-10-30 13:43:44 UTC",
+          "url": "https://apnews.com/article/2b3e8b883d526a59c979a09581cb09f5",
+          "published_at": "2026-10-30T13:43:44Z"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "11月2日周一上午9点至下午3点，South Atherton Street 在 West College Avenue 与 West Beaver Avenue 之间路段将因酒店吊装作业封闭。现场将设置绕行指引，行人和应急车辆仍可通行。",
+          "source": "StateCollege.com｜2026-10-29 12:54:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/section-of-atherton-street-in-state-college-to-be-closed-on-monday/",
+          "published_at": "2026-10-29T12:54:00-04:00"
+        },
+        {
+          "summary": "Patton Township 通过短租新规，将新增非业主自住房短租限制在指定商业等分区；区外既有持证短租可继续经营，直至出售或许可失效等情况发生。符合居住条件的业主自住房短租仍可在住宅区经营。",
+          "source": "StateCollege.com｜2026-10-31 05:00:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/patton-township-adopts-new-short-term-rental-regulations/",
+          "published_at": "2026-10-31T05:00:00-04:00"
+        },
+        {
+          "summary": "州和地方官员介绍，超过360万美元州资金将支持 College、Benner 两镇 Shiloh Road 的信号灯、转弯车道等交通改造。首期工程已开工，预计持续到2027年春，第二期计划于2027年夏启动。",
+          "source": "StateCollege.com｜2026-10-30 16:33:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/shiloh-road-to-see-millions-in-traffic-improvements-as-development-grows/",
+          "published_at": "2026-10-30T16:33:00-04:00"
+        },
+        {
+          "summary": "Central Pennsylvania Food Bank 的新报告估计，Centre County 约12.5%的居民、近2万人面临食物保障不足，人数较2021年增加约40%。报告建议延长食品援助点开放时间，并加强 SNAP、WIC 等项目的申请宣传。",
+          "source": "Centre County Gazette / StateCollege.com｜2026-10-30 05:00:00-04:00",
+          "url": "https://www.statecollege.com/articles/local-news/central-pa-food-bank-hunger-mapping-report-examines-food-insecurity-in-centre-county/",
+          "published_at": "2026-10-30T05:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家统计局公布，10月制造业采购经理指数为49.3%，比上月下降0.8个百分点；非制造业商务活动指数为49.7%，下降0.5个百分点。两项指数均低于50%的扩张与收缩分界线。",
+          "source": "国家统计局｜2026-10-31 09:30:00+08:00",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html",
+          "published_at": "2026-10-31T09:30:00+08:00"
+        },
+        {
+          "summary": "据新华社发布的公报，中共二十届五中全会于10月26日至29日在北京举行，审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。",
+          "source": "新华社｜2026-10-29 17:42:32+08:00",
+          "url": "https://www.xinhuanet.com/politics/leaders/20261029/3dc769be3bff40aeafcbf957eb4e47bb/c.html",
+          "published_at": "2026-10-29T17:42:32+08:00"
+        },
+        {
+          "summary": "新华社报道，截至10月28日，8,000亿元新型政策性金融工具资金已全部投放。其中，国家开发银行、中国进出口银行和中国农业发展银行分别投放3,650亿元、1,200亿元和3,150亿元。",
+          "source": "新华社｜2026-10-28 18:51:22+08:00",
+          "url": "https://www.xinhuanet.com/20261028/cc11d214186540d8b128a1505814a177/c.html",
+          "published_at": "2026-10-28T18:51:22+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳湾口岸旅检及客运通道在10月31日、11月1日凌晨0点至2点临时延长通关服务；其他口岸服务时间不变。接下来11月1日凌晨的延时安排仍可供夜间出行旅客使用。",
+          "source": "深圳市口岸办｜2026-10-29 20:23:00+08:00",
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_13046113.html",
+          "published_at": "2026-10-29T20:23:00+08:00"
+        },
+        {
+          "summary": "深圳市交通运输局介绍，全市已开通9条就医接驳专线，连接社区、地铁站、口岸与医院门口或院内站点。部分线路高峰期发车间隔为4—5分钟，并配备低地板、轮椅区域等设施。",
+          "source": "深圳市交通运输局（引深圳特区报）｜2026-10-27 18:06:00+08:00",
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_13042378.html",
+          "published_at": "2026-10-27T18:06:00+08:00"
+        },
+        {
+          "summary": "深惠城际五和站至坂李工作井区间右线盾构隧道贯通，该区间实现双线贯通，为后续工程施工提供条件。",
+          "source": "深圳市交通运输局（引深圳晚报）｜2026-10-29 16:41:00+08:00",
+          "url": "https://www.sz.gov.cn/ztfw/jtly/wyk_184755/content/post_13045642.html",
+          "published_at": "2026-10-29T16:41:00+08:00"
+        },
+        {
+          "summary": "福田香蜜湖户政服务场所升级，推动户籍迁移、身份证和出入境等业务集约办理，并结合线上服务与人工综合窗口。24小时开放的是自助服务区，方便居民在窗口办公时间之外办理适用事项。",
+          "source": "深圳特区报（深圳政府在线）｜2026-10-30 11:59:00+08:00",
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_13046589.html",
+          "published_at": "2026-10-30T11:59:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve 更新静音换弹的按住与切换操作选项，并修复请求静音换弹时仍会播放初始换弹声音的问题。此次更新还修复 AMD 显卡上的黑色液体显示，以及录像回退时的部分声音和界面问题。",
+          "source": "Valve（Steam）｜2026-10-28（UTC-07:00，仅日期）",
+          "url": "https://steamcommunity.com/ogg/730/announcements/detail/694276363007296021",
+          "published_at": "2026-10-28",
+          "published_timezone": "-07:00"
+        },
+        {
+          "summary": "芬兰电竞俱乐部 ENCE 宣布，董事会决定申请破产，俱乐部将结束其13年的运营。",
+          "source": "HLTV｜2026-10-26 15:19:00+01:00",
+          "url": "https://www.hltv.org/news/45814/ence-file-for-bankruptcy",
+          "published_at": "2026-10-26T15:19:00+01:00"
+        },
+        {
+          "summary": "PGL Masters Bucharest 半决赛中，FURIA 以2比1击败 MOUZ；另一场半决赛 Nemiga 以2比0战胜 Vitality。FURIA 与 Nemiga 会师决赛。",
+          "source": "HLTV｜2026-10-30 19:05:00+01:00",
+          "url": "https://www.hltv.org/news/45863/furia-beat-mouz-en-route-to-bucharest-final",
+          "published_at": "2026-10-30T19:05:00+01:00"
+        },
+        {
+          "summary": "Legacy 确认将 n1ssim 调至替补，由 ksloks 代打至2026年年底。具体换人原因尚未公布。",
+          "source": "HLTV｜2026-10-28 12:36:00+01:00",
+          "url": "https://www.hltv.org/news/45838/legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026",
+          "published_at": "2026-10-28T12:36:00+01:00"
+        }
+      ]
+    }
+  ]
+}

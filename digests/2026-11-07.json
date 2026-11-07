@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-07",
+  "period": "weekly",
+  "generated_at": "2026-11-07T14:12:29+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "特朗普称，美军11月6日对伊朗防空设施实施了有限打击；伊朗国家媒体报道，霍尔木兹海峡附近的格什姆岛苏扎地区发生爆炸。具体目标和损失仍缺乏独立核实。",
+          "source": "AP｜2026-11-06 22:14:38 UTC",
+          "url": "https://apnews.com/article/53ed5d271b9aef6f880aebc133ea6a55",
+          "published_at": "2026-11-06T22:14:38Z"
+        },
+        {
+          "summary": "英国央行以8比1投票将基准利率上调0.25个百分点至4%。央行指出能源涨价加重通胀压力，并预计通胀率可能在2027年年中升至约5%；这属于预测，并非已实现的数据。",
+          "source": "Bank of England｜2026-11-05（仅日期，英国时间）",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+          "published_at": "2026-11-05",
+          "published_timezone": "+00:00"
+        },
+        {
+          "summary": "日本政府宣布100亿日元紧急网络安全方案，应对企业和政府机构接连遭入侵、数据泄露。措施包括设立AI辅助网络安全专家团队，并由公私部门组成“网络救援队”为受袭企业提供初期支援。",
+          "source": "AP｜2026-11-06 14:27:07 UTC",
+          "url": "https://apnews.com/article/8ba038fde849e7ea9c49126ecd770972",
+          "published_at": "2026-11-06T14:27:07Z"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美联社判定民主党在中期选举中赢得美国参议院和众议院控制权，分别于11月3日晚、4日凌晨作出判断。报道为媒体选举结果判定，正式计票认证仍由各地选举机构负责。",
+          "source": "AP｜2026-11-05（仅日期，美国东部时间）",
+          "url": "https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/",
+          "published_at": "2026-11-05",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "美国劳工统计局公布，10月非农就业增加16.5万人，失业率为4.1%，变化不大。就业增长主要来自专业及商业服务、医疗保健，以及运输和仓储等行业。",
+          "source": "U.S. Bureau of Labor Statistics｜2026-11-06 08:30 EST",
+          "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+          "published_at": "2026-11-06T08:30:00-05:00"
+        },
+        {
+          "summary": "特朗普宣布由Stephen Miller接替Susie Wiles出任白宫幕僚长。Miller此前担任负责政策的副幕僚长，也是政府移民政策的主要推动者。",
+          "source": "AP｜2026-11-06 18:58:20 UTC",
+          "url": "https://apnews.com/article/95690fe076f6bb8cfe2bf77435a1910d",
+          "published_at": "2026-11-06T18:58:20Z"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州州长Josh Shapiro击败共和党挑战者Stacy Garrity赢得连任，Garrity已致电祝贺。Spotlight PA同时报道民主党赢得州议会两院，为下一届州政府推进政策提供更大空间。",
+          "source": "Spotlight PA｜2026-11-03（仅日期，美国东部时间）",
+          "url": "https://www.spotlightpa.org/news/2026/11/election-results-pennsylvania-governor-josh-shapiro-stacy-garrity-elections/",
+          "published_at": "2026-11-03",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "宾州2026—2027年度LIHEAP冬季取暖补助已开放申请，申请期为11月2日至2027年4月23日。符合条件的家庭可获得200至1000美元现金补助，租户和房主均可申请，供暖危机另有紧急援助。",
+          "source": "Forest Area School District｜2026-11-04（仅日期，东部时间）",
+          "url": "https://www.forestareaschools.org/liheap-2026-2027-applications-now-open/",
+          "published_at": "2026-11-04",
+          "published_timezone": "-05:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "State College提出总额7220万美元的2027年预算草案，拟将房地产税提高3 mills（约12%），垃圾收运费提高15%。方案仍在审议中，尚未最终通过。",
+          "source": "StateCollege.com｜2026-11-06 20:31 EST",
+          "url": "https://www.statecollege.com/articles/local-news/proposed-2027-state-college-budget-includes-real-estate-tax-increase/",
+          "published_at": "2026-11-06T20:31:00-05:00"
+        },
+        {
+          "summary": "美国司法部起诉Penn State，质疑其向部分无合法移民身份学生提供州内学费的政策。校方表示正在审查诉状；联邦政府的主张仍属诉讼指控，尚非法院裁决。",
+          "source": "AP｜2026-11-05 21:46:40 UTC",
+          "url": "https://apnews.com/article/164d7d9e4e760e8207b6c97c54c8fea9",
+          "published_at": "2026-11-05T21:46:40Z"
+        },
+        {
+          "summary": "11月6日上午，Mount Nittany小学、初中及Panorama Village行政楼因威胁电话采取室内避险措施。警方认为威胁不可信、疑属虚假报警，并增加警力作为预防。",
+          "source": "StateCollege.com｜2026-11-06 11:45 EST",
+          "url": "https://www.statecollege.com/articles/local-news/police-crime/3-state-college-school-district-buildings-put-under-shelter-in-place-after-swatting-call-police-say-threat-not-credible/",
+          "published_at": "2026-11-06T11:45:00-05:00"
+        },
+        {
+          "summary": "CATA将在地区内20个公交站试点新型实时公交信息标牌，试验预计持续六个月。乘客可扫描二维码或用手机轻触查看信息；开启GPS后可进入对应站点的实时页面。",
+          "source": "StateCollege.com｜2026-11-05 05:30 EST",
+          "url": "https://www.statecollege.com/articles/local-news/cata-testing-new-real-time-bus-information-signs-as-part-of-pilot-project/",
+          "published_at": "2026-11-05T05:30:00-05:00"
+        },
+        {
+          "summary": "Centre County涉及的三场州众议院选举均由现任议员胜出：第77区Scott Conklin、第82区Paul Takac及第171区Kerry Benninghoff。美联社已判定三场结果，他们将继续任职两年。",
+          "source": "StateCollege.com｜2026-11-03 23:17 EST",
+          "url": "https://www.statecollege.com/articles/elections/incumbents-win-reelection-in-centre-county-state-house-races/",
+          "published_at": "2026-11-03T23:17:00-05:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "全国人大常委会通过反跨境腐败法，自公布之日起施行。该法共六章47条，涉及工作机制、案件办理、国际合作、反跨境腐败合规及法律责任等内容。",
+          "source": "新华社｜2026-11-06 09:39:18 北京时间",
+          "url": "https://www.news.cn/politics/20261106/bf368d13a1a64c2cb00cedf72ac95573/c.html",
+          "published_at": "2026-11-06T09:39:18+08:00"
+        },
+        {
+          "summary": "国务院办公厅公布2027年节假日安排：春节2月5日至13日放假调休共9天，劳动节5月1日至5日共5天，国庆节10月1日至7日共7天。元旦和清明节各3天，端午节、中秋节各1天。",
+          "source": "新华社｜2026-11-05 17:14:42 北京时间",
+          "url": "https://www1.xinhuanet.com/politics/20261105/378198bc10ba4d1b83837c64fef5d28b/c.html",
+          "published_at": "2026-11-05T17:14:42+08:00"
+        },
+        {
+          "summary": "国家医保局表示，医保钱包2.0版预计年底前支持被共济人跨省异地就医购药时使用共济额度，目前相关系统仍在调试。各定点机构接入进度不同，使用前应确认是否支持结算。",
+          "source": "每日经济新闻｜2026-11-05 22:53 北京时间",
+          "url": "https://m.nbd.com.cn/articles/2026-11-05/4640052.html",
+          "published_at": "2026-11-05T22:53:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳公布APEC期间外地号牌载客汽车临时限行：11月17日至20日每天6时至22时，覆盖福田、罗湖、南山、宝安、龙岗、龙华六区。部分道路及特定车辆豁免，具体范围和绕行路线见官方决定。",
+          "source": "深圳市人民政府｜2026-11-03（仅日期，北京时间）",
+          "url": "https://www.sz.gov.cn/gkmlpt/content/13/13051/post_13051787.html",
+          "published_at": "2026-11-03",
+          "published_timezone": "+08:00"
+        },
+        {
+          "summary": "深圳低空飞行临时管控于11月7日至10日覆盖福田、南山，11月11日至21日扩至全市（不含深汕特别合作区）。管控涉及无人机、风筝、孔明灯等，特殊任务须经依法批准后飞行。",
+          "source": "深圳特区报／深圳政府在线｜2026-11-04 11:49 北京时间",
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_13053144.html",
+          "published_at": "2026-11-04T11:49:00+08:00"
+        },
+        {
+          "summary": "深圳公交、地铁11月3日上线数字人民币硬钱包“一碰通行”，覆盖17条地铁线路、432座车站及近900条公交线路。持同一硬钱包即可碰触支付，无需打开手机App或联网。",
+          "source": "深圳发布（21财经）｜2026-11-03 22:42 北京时间",
+          "url": "https://m.21jingji.com/article/20261103/herald/cfe8098e833d955ce5b3efd2faf945e2.html",
+          "published_at": "2026-11-03T22:42:00+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve更新Retakes模式：剩余时间足够且没有阻止拆弹的有效投掷物时，拆弹会立即完成，同时缩短冻结时间和回合重启延迟。更新还扩展了地图脚本的实体生成及机器人控制等功能。",
+          "source": "Valve／Steam｜2026-11-04（仅日期，美国太平洋时间）",
+          "url": "https://steamcommunity.com/games/CSGO/announcements/detail/694277000588690212",
+          "published_at": "2026-11-04",
+          "published_timezone": "-08:00"
+        }
+      ],
+      "note": "本周仅收录已核实的官方更新；部分赛事及战队报道的发布时间未能充分核实，未纳入。"
+    }
+  ]
+}

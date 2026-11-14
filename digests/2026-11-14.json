@@ -1,0 +1,204 @@
+{
+  "period": "weekly",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:14:48+00:00",
+  "sections": [
+    {
+      "name": "世界新闻",
+      "items": [
+        {
+          "summary": "白宫称，特朗普、习近平和普京计划于11月19日在深圳APEC会议期间举行三方会晤。美方官员表示拟讨论伊朗战争和核军控，目前不预期达成协议；会晤尚未举行。",
+          "source": "AP｜2026-11-13T23:40:22+00:00",
+          "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72",
+          "published_at": "2026-11-13T23:40:22+00:00"
+        },
+        {
+          "summary": "俄乌在阿布扎比举行两天、由美国斡旋的谈判后，同意开展大规模战俘交换。和平谈判尚无重大突破，核心分歧仍未解决。",
+          "source": "AP｜2026-11-11T09:39:45+00:00",
+          "url": "https://apnews.com/article/7c8d1024302e0c6ad8be064eec852a64",
+          "published_at": "2026-11-11T09:39:45+00:00"
+        },
+        {
+          "summary": "联合国秘书长古特雷斯在土耳其安塔利亚COP31气候大会呼吁立即大幅减排，以降低全球升温超过1.5℃后的风险。这是联合国的政策呼吁，并非大会已达成的新减排协议。",
+          "source": "AP｜2026-11-13T18:44:45+00:00",
+          "url": "https://apnews.com/article/9c3945f36e4445dd4427f490c40e4bf3",
+          "published_at": "2026-11-13T18:44:45+00:00"
+        },
+        {
+          "summary": "微软称，影响Outlook、Teams和Copilot等服务的全球故障已于11月14日恢复，此前中断持续数小时。公司将故障归因于网络容量升级及近期变更，并称并非网络攻击所致。",
+          "source": "AP｜2026-11-14T09:11:59+00:00",
+          "url": "https://apnews.com/article/ca395c0f1e51af784b6d70afb6554f6a",
+          "published_at": "2026-11-14T09:11:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美国新闻",
+      "items": [
+        {
+          "summary": "美国11月13日因空管通信故障暂停全国航班起飞数小时，当晚解除限制，数千航班受到影响。政府官员称新旧设备衔接使旧系统过载，具体起因仍在调查，解除停飞不代表所有航班已恢复正常。",
+          "source": "AP｜2026-11-13（UTC-05:00，仅标日期）",
+          "url": "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8",
+          "published_at": "2026-11-13",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "英伟达董事会宣布黄仁勋辞去总裁、首席执行官及董事职务，即时生效。财务负责人Colette Kress兼任临时CEO，董事会开始寻找正式继任者。",
+          "source": "NVIDIA Newsroom｜2026-11-12（UTC-08:00，仅标日期）",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition/",
+          "published_at": "2026-11-12",
+          "published_timezone": "-08:00"
+        },
+        {
+          "summary": "美国劳工统计局公布，10月CPI经季节调整环比上涨0.4%，剔除食品和能源的核心CPI环比上涨0.3%。由于2025年10月政府停摆造成数据缺失，本次未公布相应的总体及核心同比涨幅。",
+          "source": "美国劳工统计局 BLS｜2026-11-10T08:30:00-05:00",
+          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+          "published_at": "2026-11-10T08:30:00-05:00"
+        },
+        {
+          "summary": "CMS允许各州选择一段截至2027年6月30日的Medicaid工作等社区参与要求宽限期，在此期间不因未满足该要求而拒绝或终止保障。各州仍须从2027年1月1日起评估相关要求，其他资格规定照常适用，并非全国取消工作要求。",
+          "source": "美国CMS｜2026-11-13（UTC-05:00，仅标日期）",
+          "url": "https://www.medicaid.gov/Federal-Policy-Guidance/Downloads/smd26006.pdf",
+          "published_at": "2026-11-13",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "美国最高法院同意审理特朗普暂停南部边境庇护申请的行政命令相关案件，政府寻求推翻认定该政策违法的下级法院裁决。目前是受理审查阶段，最高法院尚未作出最终裁决。",
+          "source": "AP｜2026-11-13T18:54:15+00:00",
+          "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4",
+          "published_at": "2026-11-13T18:54:15+00:00"
+        }
+      ]
+    },
+    {
+      "name": "宾夕法尼亚州新闻",
+      "items": [
+        {
+          "summary": "宾州启动2026年大选风险限制审计，抽取州长选举的选票批次进行人工核对。审计须于11月19日前完成，县级认证期限为11月23日；这是常规选后核验，并不意味着已发现舞弊。",
+          "source": "宾州州务院｜2026-11-13（UTC-05:00，仅标日期）",
+          "url": "https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election",
+          "published_at": "2026-11-13",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "宾州政府宣布与沃尔玛就未成年雇员劳动规定问题达成总计约780万美元的和解。调查涉及超时工作、休息不足等问题，后续要求培训及合规复查。",
+          "source": "宾州州长办公室｜2026-11-09（UTC-05:00，仅标日期）",
+          "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/shapiro-admin-secures--7-8-million-settlement-with-walmart",
+          "published_at": "2026-11-09",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "礼来位于Fogelsville的35亿美元制药设施于11月12日举行奠基，宾州政府公布的支持方案总额为1亿美元。项目预计创造850个长期岗位及约2,000个建设岗位，这些是规划目标，尚非已实现就业。",
+          "source": "宾州州长办公室｜2026-11-13（UTC-05:00，仅标日期）",
+          "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/gov--shapiro-breaks-ground-on-lilly-s-pharmaceutical-manufacturi",
+          "published_at": "2026-11-13",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "Penn State董事会批准以740万美元向York College of Pennsylvania出售York校区地产，交易仍须完成其他必要审批。校区将按既定安排运营至2027年春季学期结束，买方计划继续用于教育相关业务。",
+          "source": "Penn State（11月13日更新）｜2026-11-13（UTC-05:00，仅标日期）",
+          "url": "https://www.psu.edu/news/administration/story/board-trustees-approves-sale-penn-state-york-campus-property",
+          "published_at": "2026-11-13",
+          "published_timezone": "-05:00"
+        }
+      ]
+    },
+    {
+      "name": "State College 新闻",
+      "items": [
+        {
+          "summary": "Penn State董事会批准约1,220万美元的State College机场跑道及场区基础设施项目，主要由联邦航空局拨款支持。同次会议还批准1,660万美元的Thompson Hall宿舍改造，更新卫浴等设施并增加14个床位。",
+          "source": "Penn State｜2026-11-13（UTC-05:00，仅标日期）",
+          "url": "https://www.psu.edu/news/administration/story/penn-state-trustees-recap-board-approves-infrastructure-upgrades-real-estate",
+          "published_at": "2026-11-13",
+          "published_timezone": "-05:00"
+        },
+        {
+          "summary": "Centre County委员以2比1表决，将现有每辆车5美元的地方车辆登记附加费再延长五年。该费用每年约筹集60万美元，用于地方道路及桥梁，并非新增加一项5美元收费。",
+          "source": "StateCollege.com｜2026-11-10T18:29:00-05:00",
+          "url": "https://www.statecollege.com/articles/local-news/in-split-vote-centre-county-commissioners-renew-5-fee-for-local-use-on-vehicle-registrations/",
+          "published_at": "2026-11-10T18:29:00-05:00"
+        },
+        {
+          "summary": "Centre County验尸官确认，11月9日Spring Township的Axemann Road住宅火灾造成一名76岁男子死亡。初步认定死因为吸入烟雾，死亡性质为意外，相关结论以调查后续为准。",
+          "source": "StateCollege.com｜2026-11-13T14:55:00-05:00",
+          "url": "https://www.statecollege.com/articles/local-news/former-bellefonte-business-owner-killed-in-spring-township-house-fire/",
+          "published_at": "2026-11-13T14:55:00-05:00"
+        }
+      ]
+    },
+    {
+      "name": "中国新闻",
+      "items": [
+        {
+          "summary": "国家医保局、人社部公布2026年版医保药品目录，新增107种药品，其中51种为1类创新药，目录药品总数达到3,331种。新版目录将于2027年1月1日实施，尚未按新目录结算。",
+          "source": "国家医疗保障局｜2026-11-14（UTC+08:00，仅标日期）",
+          "url": "https://www.nhsa.gov.cn/art/2026/11/14/art_14_23385.html",
+          "published_at": "2026-11-14",
+          "published_timezone": "+08:00"
+        },
+        {
+          "summary": "国家统计局公布，10月全国居民消费价格同比上涨0.7%、环比持平；剔除食品和能源的核心CPI同比上涨0.8%。食品价格同比下降2.9%，与部分非食品价格上涨形成差异。",
+          "source": "国家统计局｜2026-11-09T09:30:00+08:00",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html",
+          "published_at": "2026-11-09T09:30:00+08:00"
+        },
+        {
+          "summary": "国家发改委宣布，自11月12日24时起，国内标准品汽油、柴油价格每吨分别下调645元和625元。该幅度为每吨标准品调价，不等于各地各标号每升降价相同。",
+          "source": "新华网／国家发改委｜2026-11-12T15:01:46+08:00",
+          "url": "https://www3.xinhuanet.com/fortune/20261112/6a68141b605a48129d8f22de6c551e3f/c.html",
+          "published_at": "2026-11-12T15:01:46+08:00"
+        },
+        {
+          "summary": "人社部发布《技能人才评价条例（征求意见稿）》，向社会征求意见至12月12日。草案拟规范评价标准、评价机构和证书管理，并加强跨部门监管；目前尚未正式施行。",
+          "source": "新华网｜2026-11-12T16:07:15+08:00",
+          "url": "https://www.xinhuanet.com/edu/20261112/b4729c2c77334a2aa16796f19c310198/c.html",
+          "published_at": "2026-11-12T16:07:15+08:00"
+        }
+      ]
+    },
+    {
+      "name": "深圳新闻",
+      "items": [
+        {
+          "summary": "深圳公布APEC会议周出行安排：11月16日至20日，地铁计程票和常规公交票价实施五折优惠；11月16日至19日，除20号线外地铁延长运营约一小时。部分道路和地铁出入口将分时管控，日票、次票等特殊票种不适用上述地铁优惠，出行宜核对通告。",
+          "source": "深圳之窗（据交通通告）｜2026-11-13T15:26:00+08:00",
+          "url": "https://city.shenchuang.com/city/20261113/1692873.shtml",
+          "published_at": "2026-11-13T15:26:00+08:00"
+        },
+        {
+          "summary": "新皇岗口岸启用满一个月，累计查验出入境旅客344万人次，日均超过11万人次。央视记者报道，口岸已开通6条APEC专用通道，以保障会议期间跨境通行。",
+          "source": "中央广播电视总台国际在线／央视新闻｜2026-11-12T23:38:44+08:00",
+          "url": "https://news.cri.cn/20261112/670ddaf9-ecf8-9e16-1da7-67c664c24baa.html",
+          "published_at": "2026-11-12T23:38:44+08:00"
+        }
+      ]
+    },
+    {
+      "name": "CS2 游戏资讯",
+      "items": [
+        {
+          "summary": "Valve发布11月11日CS2更新，修复极端视角下切枪、换弹动画及Retakes模式机器人寻路问题。更新还处理DX11渲染卡死、CPU指令集检测及稳定性问题。",
+          "source": "Valve／Steam｜2026-11-11（UTC-08:00，仅标日期）",
+          "url": "https://steamcommunity.com/ogg/730/announcements/detail/687522235410284762",
+          "published_at": "2026-11-11",
+          "published_timezone": "-08:00"
+        },
+        {
+          "summary": "Spirit在BLAST Rivals香港站半决赛以2比0击败MOUZ，晋级11月15日的决赛；两张地图比分为Mirage 13比7、Ancient 13比11。tN1R在Ancient关键回合完成五杀，帮助队伍结束比赛。",
+          "source": "Pley｜2026-11-14（UTC+01:00，仅标日期）",
+          "url": "https://pley.gg/cs2/tn1rs-ace-puts-spirit-in-the-hong-kong-final/",
+          "published_at": "2026-11-14",
+          "published_timezone": "+01:00"
+        },
+        {
+          "summary": "Virtus.pro官方宣布Patsi从替补转为CS2正式主力，接替因健康原因转入非活跃名单的F0R3VER。俱乐部未公布F0R3VER的回归时间。",
+          "source": "Virtus.pro｜2026-11-10（UTC+03:00，仅标日期）",
+          "url": "https://virtus.pro/news/patsi-virtus-pro-cs2",
+          "published_at": "2026-11-10",
+          "published_timezone": "+03:00"
+        }
+      ]
+    }
+  ]
+}
